@@ -1,0 +1,3112 @@
+{
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.babel.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:release": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "./bin/shouldBuild",
+            "imported": [
+              "SHOULD_BUILD"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "SHOULD_BUILD",
+                "local": "SHOULD_BUILD"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.babel.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.babel.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "webpack.config.babel.js",
+      "sourceFileName": "webpack.config.babel.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "webpack.config.babel"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n                    value: true\n});\n\nvar _shouldBuild = require('./bin/shouldBuild');\n\n// Defining config variables\n// ================================================================================\n\n// If it's production or release, we use the production config,\n// Otherwise, use the development config\n// please looked at ./bin/shouldBuild.js\nvar webpackConfig = _shouldBuild.SHOULD_BUILD ? require('./webpack.config.prod') : require('./webpack.config.dev');\n\nexports.default = webpackConfig;\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2suY29uZmlnLmJhYmVsLmpzIl0sIm5hbWVzIjpbIndlYnBhY2tDb25maWciLCJyZXF1aXJlIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTs7QUFDQTtBQUNBOztBQUVBO0FBQ0E7QUFDQTtBQUNBLElBQU1BLGdCQUFnQiw0QkFDQUMsUUFBUSx1QkFBUixDQURBLEdBRUFBLFFBQVEsc0JBQVIsQ0FGdEI7O2tCQUllRCxhIiwiZmlsZSI6IndlYnBhY2suY29uZmlnLmJhYmVsLmpzIiwic291cmNlUm9vdCI6Ii92YXIvbm9kZWpzL1R1dG9yaW5nV2ViU3lzdGVtLVdlYi9mcm9udGVuZCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFNIT1VMRF9CVUlMRCB9IGZyb20gJy4vYmluL3Nob3VsZEJ1aWxkJztcbi8vIERlZmluaW5nIGNvbmZpZyB2YXJpYWJsZXNcbi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09XG5cbi8vIElmIGl0J3MgcHJvZHVjdGlvbiBvciByZWxlYXNlLCB3ZSB1c2UgdGhlIHByb2R1Y3Rpb24gY29uZmlnLFxuLy8gT3RoZXJ3aXNlLCB1c2UgdGhlIGRldmVsb3BtZW50IGNvbmZpZ1xuLy8gcGxlYXNlIGxvb2tlZCBhdCAuL2Jpbi9zaG91bGRCdWlsZC5qc1xuY29uc3Qgd2VicGFja0NvbmZpZyA9IChTSE9VTERfQlVJTEQpXG4gICAgICAgICAgICAgICAgICAgID8gcmVxdWlyZSgnLi93ZWJwYWNrLmNvbmZpZy5wcm9kJylcbiAgICAgICAgICAgICAgICAgICAgOiByZXF1aXJlKCcuL3dlYnBhY2suY29uZmlnLmRldicpO1xuXG5leHBvcnQgZGVmYXVsdCB3ZWJwYWNrQ29uZmlnO1xuIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "webpack.config.babel.js"
+      ],
+      "names": [
+        "webpackConfig",
+        "require"
+      ],
+      "mappings": ";;;;;;AAAA;;AACA;AACA;;AAEA;AACA;AACA;AACA,IAAMA,gBAAgB,4BACAC,QAAQ,uBAAR,CADA,GAEAA,QAAQ,sBAAR,CAFtB;;kBAIeD,a",
+      "file": "webpack.config.babel.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "sourcesContent": [
+        "import { SHOULD_BUILD } from './bin/shouldBuild';\n// Defining config variables\n// ================================================================================\n\n// If it's production or release, we use the production config,\n// Otherwise, use the development config\n// please looked at ./bin/shouldBuild.js\nconst webpackConfig = (SHOULD_BUILD)\n                    ? require('./webpack.config.prod')\n                    : require('./webpack.config.dev');\n\nexport default webpackConfig;\n"
+      ]
+    },
+    "mtime": 1521616384302
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/bin/shouldBuild.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend/bin\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:release": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [],
+        "exports": {
+          "exported": [
+            "SHOULD_BUILD"
+          ],
+          "specifiers": [
+            {
+              "kind": "local",
+              "local": "SHOULD_BUILD",
+              "exported": "SHOULD_BUILD"
+            }
+          ]
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/bin/shouldBuild.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/bin/shouldBuild.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "shouldBuild.js",
+      "sourceFileName": "shouldBuild.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend/bin",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend/bin",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "shouldBuild"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n// - Note: You can add in more environment if you want, our current setting\n// is we only built and optimize `production` and `release`.\n\nvar IS_PRODUCTION = process.env.NODE_ENV === 'production';\nvar IS_RELEASE = process.env.NODE_ENV === 'release';\n\nvar SHOULD_BUILD = exports.SHOULD_BUILD = IS_PRODUCTION || IS_RELEASE;\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNob3VsZEJ1aWxkLmpzIl0sIm5hbWVzIjpbIklTX1BST0RVQ1RJT04iLCJwcm9jZXNzIiwiZW52IiwiTk9ERV9FTlYiLCJJU19SRUxFQVNFIiwiU0hPVUxEX0JVSUxEIl0sIm1hcHBpbmdzIjoiOzs7OztBQUFBO0FBQ0E7O0FBRUEsSUFBTUEsZ0JBQWdCQyxRQUFRQyxHQUFSLENBQVlDLFFBQVosS0FBeUIsWUFBL0M7QUFDQSxJQUFNQyxhQUFhSCxRQUFRQyxHQUFSLENBQVlDLFFBQVosS0FBeUIsU0FBNUM7O0FBRU8sSUFBTUUsc0NBQWVMLGlCQUFpQkksVUFBdEMiLCJmaWxlIjoic2hvdWxkQnVpbGQuanMiLCJzb3VyY2VSb290IjoiL3Zhci9ub2RlanMvVHV0b3JpbmdXZWJTeXN0ZW0tV2ViL2Zyb250ZW5kL2JpbiIsInNvdXJjZXNDb250ZW50IjpbIi8vIC0gTm90ZTogWW91IGNhbiBhZGQgaW4gbW9yZSBlbnZpcm9ubWVudCBpZiB5b3Ugd2FudCwgb3VyIGN1cnJlbnQgc2V0dGluZ1xuLy8gaXMgd2Ugb25seSBidWlsdCBhbmQgb3B0aW1pemUgYHByb2R1Y3Rpb25gIGFuZCBgcmVsZWFzZWAuXG5cbmNvbnN0IElTX1BST0RVQ1RJT04gPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ3Byb2R1Y3Rpb24nO1xuY29uc3QgSVNfUkVMRUFTRSA9IHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncmVsZWFzZSc7XG5cbmV4cG9ydCBjb25zdCBTSE9VTERfQlVJTEQgPSBJU19QUk9EVUNUSU9OIHx8IElTX1JFTEVBU0U7Il19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "shouldBuild.js"
+      ],
+      "names": [
+        "IS_PRODUCTION",
+        "process",
+        "env",
+        "NODE_ENV",
+        "IS_RELEASE",
+        "SHOULD_BUILD"
+      ],
+      "mappings": ";;;;;AAAA;AACA;;AAEA,IAAMA,gBAAgBC,QAAQC,GAAR,CAAYC,QAAZ,KAAyB,YAA/C;AACA,IAAMC,aAAaH,QAAQC,GAAR,CAAYC,QAAZ,KAAyB,SAA5C;;AAEO,IAAME,sCAAeL,iBAAiBI,UAAtC",
+      "file": "shouldBuild.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend/bin",
+      "sourcesContent": [
+        "// - Note: You can add in more environment if you want, our current setting\n// is we only built and optimize `production` and `release`.\n\nconst IS_PRODUCTION = process.env.NODE_ENV === 'production';\nconst IS_RELEASE = process.env.NODE_ENV === 'release';\n\nexport const SHOULD_BUILD = IS_PRODUCTION || IS_RELEASE;"
+      ]
+    },
+    "mtime": 1521616384210
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.prod.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:release": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "config",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "config"
+              }
+            ]
+          },
+          {
+            "source": "path",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "path"
+              }
+            ]
+          },
+          {
+            "source": "webpack",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "webpack"
+              }
+            ]
+          },
+          {
+            "source": "html-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "HtmlWebpackPlugin"
+              }
+            ]
+          },
+          {
+            "source": "assets-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "SaveAssetsJson"
+              }
+            ]
+          },
+          {
+            "source": "extract-text-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "ExtractTextPlugin"
+              }
+            ]
+          },
+          {
+            "source": "./webpack.config.common",
+            "imported": [
+              "default",
+              "JS_SOURCE"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "webpackConfig"
+              },
+              {
+                "kind": "named",
+                "imported": "JS_SOURCE",
+                "local": "JS_SOURCE"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.prod.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.prod.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "webpack.config.prod.js",
+      "sourceFileName": "webpack.config.prod.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "webpack.config.prod"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _config = require('config');\n\nvar _config2 = _interopRequireDefault(_config);\n\nvar _path = require('path');\n\nvar _path2 = _interopRequireDefault(_path);\n\nvar _webpack = require('webpack');\n\nvar _webpack2 = _interopRequireDefault(_webpack);\n\nvar _htmlWebpackPlugin = require('html-webpack-plugin');\n\nvar _htmlWebpackPlugin2 = _interopRequireDefault(_htmlWebpackPlugin);\n\nvar _assetsWebpackPlugin = require('assets-webpack-plugin');\n\nvar _assetsWebpackPlugin2 = _interopRequireDefault(_assetsWebpackPlugin);\n\nvar _extractTextWebpackPlugin = require('extract-text-webpack-plugin');\n\nvar _extractTextWebpackPlugin2 = _interopRequireDefault(_extractTextWebpackPlugin);\n\nvar _webpackConfig = require('./webpack.config.common');\n\nvar _webpackConfig2 = _interopRequireDefault(_webpackConfig);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// ----------------------------------------------------------\n//  CONSTANT DECLARATION\n// ----------------------------------------------------------\n\nvar PUBLIC_PATH = _config2.default.get('publicPath');\nvar APP_ENTRY_POINT = _webpackConfig.JS_SOURCE + '/router';\n\nvar webpackProdOutput = {\n    publicPath: PUBLIC_PATH,\n    filename: 'assets/[name]-[hash].js',\n    chunkFilename: 'assets/[id].[hash].js'\n};\n\n// This section is for common chunk behavior\n// do we need to exclude css from this rule\nvar optimizationMinChunks = _config2.default.get('optimization.cssExclusion') ? function (module, count) {\n    return module.resource && !/\\.css/.test(module.resource) && count >= _config2.default.get('optimization.commonMinCount');\n} : _config2.default.get('optimization.commonMinCount');\n\nvar html = _config2.default.get('html');\n\n// Please configure this section if you plan\n// to deploy the generated html to production.\n// I don't mind you name your page as Retro\n// if you want to ...\nvar htmlPlugins = html.map(function (page) {\n    return new _htmlWebpackPlugin2.default({\n        title: page.title,\n        template: 'src/assets/template/' + page.template,\n        favicon: 'src/assets/' + page.favicon,\n        inject: page.inject,\n        filename: page.filename,\n        minify: {\n            removeComments: true,\n            collapseWhitespace: true,\n            conservativeCollapse: true\n        },\n        chrome_screensharing_extension: _config2.default.get('app.chrome_screensharing_extension')\n    });\n});\n\n// ----------------------------------------------------------\n//  Extending Webpack Configuration\n// ----------------------------------------------------------\n\n// Merges webpackProdOutput and webpackConfig.output\n_webpackConfig2.default.output = Object.assign(_webpackConfig2.default.output, webpackProdOutput);\n\n_webpackConfig2.default.module.rules = _webpackConfig2.default.module.rules.concat({\n    test: /\\.scss$/,\n    use: _extractTextWebpackPlugin2.default.extract({\n        fallback: 'style-loader',\n        use: [{\n            loader: 'css-loader',\n            options: {\n                sourceMap: true,\n                importLoaders: 2,\n                minimize: true,\n                modules: true,\n                localIdentName: '[name]__[local]--[hash:base64:5]'\n            }\n        }, {\n            loader: 'postcss-loader'\n        }, {\n            loader: 'sass-loader',\n            options: {\n                sourceMap: true\n            }\n        }]\n    })\n});\n\n_webpackConfig2.default.devtool = 'source-map';\n\n_webpackConfig2.default.entry = {\n    app: ['babel-polyfill', _path2.default.resolve(__dirname, APP_ENTRY_POINT)]\n};\n\n_webpackConfig2.default.output.publicPath = '/';\n\n_webpackConfig2.default.plugins.push(new _webpack2.default.DefinePlugin({\n    __CONFIG__: JSON.stringify(_config2.default.get('app')),\n    'process.env': {\n        NODE_ENV: JSON.stringify('production')\n    }\n}), new _webpack2.default.LoaderOptionsPlugin({\n    minimize: true,\n    debug: false\n}),\n// how you want your code to be optimized\n// all configurable\nnew _webpack2.default.IgnorePlugin(/un~$/), new _webpack2.default.optimize.UglifyJsPlugin({\n    sourceMap: true\n}), new _webpack2.default.optimize.CommonsChunkPlugin({\n    name: 'common',\n    filename: 'assets/common-[hash].js',\n    minChunks: optimizationMinChunks\n}), new _assetsWebpackPlugin2.default({\n    path: _path2.default.join(__dirname, 'dist'),\n    filename: 'assets.json',\n    prettyPrint: true,\n    metadata: {\n        version: process.env.PACKAGE_VERSION\n    }\n}), new _extractTextWebpackPlugin2.default({\n    filename: 'assets/[name]-[hash].css',\n    disable: false,\n    allChunks: true\n}));\n\n_webpackConfig2.default.plugins = _webpackConfig2.default.plugins.concat(htmlPlugins);\n\nexports.default = _webpackConfig2.default;\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2suY29uZmlnLnByb2QuanMiXSwibmFtZXMiOlsiUFVCTElDX1BBVEgiLCJnZXQiLCJBUFBfRU5UUllfUE9JTlQiLCJ3ZWJwYWNrUHJvZE91dHB1dCIsInB1YmxpY1BhdGgiLCJmaWxlbmFtZSIsImNodW5rRmlsZW5hbWUiLCJvcHRpbWl6YXRpb25NaW5DaHVua3MiLCJtb2R1bGUiLCJjb3VudCIsInJlc291cmNlIiwidGVzdCIsImh0bWwiLCJodG1sUGx1Z2lucyIsIm1hcCIsInBhZ2UiLCJ0aXRsZSIsInRlbXBsYXRlIiwiZmF2aWNvbiIsImluamVjdCIsIm1pbmlmeSIsInJlbW92ZUNvbW1lbnRzIiwiY29sbGFwc2VXaGl0ZXNwYWNlIiwiY29uc2VydmF0aXZlQ29sbGFwc2UiLCJjaHJvbWVfc2NyZWVuc2hhcmluZ19leHRlbnNpb24iLCJvdXRwdXQiLCJPYmplY3QiLCJhc3NpZ24iLCJydWxlcyIsImNvbmNhdCIsInVzZSIsImV4dHJhY3QiLCJmYWxsYmFjayIsImxvYWRlciIsIm9wdGlvbnMiLCJzb3VyY2VNYXAiLCJpbXBvcnRMb2FkZXJzIiwibWluaW1pemUiLCJtb2R1bGVzIiwibG9jYWxJZGVudE5hbWUiLCJkZXZ0b29sIiwiZW50cnkiLCJhcHAiLCJyZXNvbHZlIiwiX19kaXJuYW1lIiwicGx1Z2lucyIsInB1c2giLCJEZWZpbmVQbHVnaW4iLCJfX0NPTkZJR19fIiwiSlNPTiIsInN0cmluZ2lmeSIsIk5PREVfRU5WIiwiTG9hZGVyT3B0aW9uc1BsdWdpbiIsImRlYnVnIiwiSWdub3JlUGx1Z2luIiwib3B0aW1pemUiLCJVZ2xpZnlKc1BsdWdpbiIsIkNvbW1vbnNDaHVua1BsdWdpbiIsIm5hbWUiLCJtaW5DaHVua3MiLCJwYXRoIiwiam9pbiIsInByZXR0eVByaW50IiwibWV0YWRhdGEiLCJ2ZXJzaW9uIiwicHJvY2VzcyIsImVudiIsIlBBQ0tBR0VfVkVSU0lPTiIsImRpc2FibGUiLCJhbGxDaHVua3MiXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBOzs7O0FBQ0E7Ozs7QUFDQTs7OztBQUNBOzs7O0FBQ0E7Ozs7QUFDQTs7OztBQUVBOzs7Ozs7QUFFQTtBQUNBO0FBQ0E7O0FBRUEsSUFBTUEsY0FBYyxpQkFBT0MsR0FBUCxDQUFXLFlBQVgsQ0FBcEI7QUFDQSxJQUFNQyxzREFBTjs7QUFFQSxJQUFNQyxvQkFBb0I7QUFDdEJDLGdCQUFZSixXQURVO0FBRXRCSyxjQUFVLHlCQUZZO0FBR3RCQyxtQkFBZTtBQUhPLENBQTFCOztBQU1BO0FBQ0E7QUFDQSxJQUFNQyx3QkFBd0IsaUJBQU9OLEdBQVAsQ0FBVywyQkFBWCxJQUMxQixVQUFVTyxNQUFWLEVBQWtCQyxLQUFsQixFQUF5QjtBQUNyQixXQUFPRCxPQUFPRSxRQUFQLElBQ0gsQ0FBRSxPQUFELENBQVVDLElBQVYsQ0FBZUgsT0FBT0UsUUFBdEIsQ0FERSxJQUVIRCxTQUFTLGlCQUFPUixHQUFQLENBQVcsNkJBQVgsQ0FGYjtBQUdILENBTHlCLEdBTzFCLGlCQUFPQSxHQUFQLENBQVcsNkJBQVgsQ0FQSjs7QUFTQSxJQUFNVyxPQUFPLGlCQUFPWCxHQUFQLENBQVcsTUFBWCxDQUFiOztBQUVBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsSUFBTVksY0FBY0QsS0FBS0UsR0FBTCxDQUFTLFVBQUNDLElBQUQ7QUFBQSxXQUN6QixnQ0FBc0I7QUFDbEJDLGVBQU9ELEtBQUtDLEtBRE07QUFFbEJDLDJDQUFpQ0YsS0FBS0UsUUFGcEI7QUFHbEJDLGlDQUF1QkgsS0FBS0csT0FIVjtBQUlsQkMsZ0JBQVFKLEtBQUtJLE1BSks7QUFLbEJkLGtCQUFVVSxLQUFLVixRQUxHO0FBTWxCZSxnQkFBUTtBQUNKQyw0QkFBZ0IsSUFEWjtBQUVKQyxnQ0FBb0IsSUFGaEI7QUFHSkMsa0NBQXNCO0FBSGxCLFNBTlU7QUFXbEJDLHdDQUFnQyxpQkFBT3ZCLEdBQVAsQ0FBVyxvQ0FBWDtBQVhkLEtBQXRCLENBRHlCO0FBQUEsQ0FBVCxDQUFwQjs7QUFnQkE7QUFDQTtBQUNBOztBQUVBO0FBQ0Esd0JBQWN3QixNQUFkLEdBQXVCQyxPQUFPQyxNQUFQLENBQWMsd0JBQWNGLE1BQTVCLEVBQW9DdEIsaUJBQXBDLENBQXZCOztBQUVBLHdCQUFjSyxNQUFkLENBQXFCb0IsS0FBckIsR0FBNkIsd0JBQWNwQixNQUFkLENBQXFCb0IsS0FBckIsQ0FBMkJDLE1BQTNCLENBQWtDO0FBQzNEbEIsVUFBTSxTQURxRDtBQUUzRG1CLFNBQUssbUNBQWtCQyxPQUFsQixDQUEwQjtBQUMzQkMsa0JBQVUsY0FEaUI7QUFFM0JGLGFBQUssQ0FDRDtBQUNJRyxvQkFBUSxZQURaO0FBRUlDLHFCQUFTO0FBQ0xDLDJCQUFXLElBRE47QUFFTEMsK0JBQWUsQ0FGVjtBQUdMQywwQkFBVSxJQUhMO0FBSUxDLHlCQUFTLElBSko7QUFLTEMsZ0NBQWdCO0FBTFg7QUFGYixTQURDLEVBV0Q7QUFDSU4sb0JBQVE7QUFEWixTQVhDLEVBY0Q7QUFDSUEsb0JBQVEsYUFEWjtBQUVJQyxxQkFBUztBQUNMQywyQkFBVztBQUROO0FBRmIsU0FkQztBQUZzQixLQUExQjtBQUZzRCxDQUFsQyxDQUE3Qjs7QUE0QkEsd0JBQWNLLE9BQWQsR0FBd0IsWUFBeEI7O0FBRUEsd0JBQWNDLEtBQWQsR0FBc0I7QUFDbEJDLFNBQUssQ0FBQyxnQkFBRCxFQUFtQixlQUFLQyxPQUFMLENBQWFDLFNBQWIsRUFBd0IxQyxlQUF4QixDQUFuQjtBQURhLENBQXRCOztBQUlBLHdCQUFjdUIsTUFBZCxDQUFxQnJCLFVBQXJCLEdBQWtDLEdBQWxDOztBQUVBLHdCQUFjeUMsT0FBZCxDQUFzQkMsSUFBdEIsQ0FDSSxJQUFJLGtCQUFRQyxZQUFaLENBQXlCO0FBQ3JCQyxnQkFBWUMsS0FBS0MsU0FBTCxDQUFlLGlCQUFPakQsR0FBUCxDQUFXLEtBQVgsQ0FBZixDQURTO0FBRXJCLG1CQUFlO0FBQ1hrRCxrQkFBVUYsS0FBS0MsU0FBTCxDQUFlLFlBQWY7QUFEQztBQUZNLENBQXpCLENBREosRUFPSSxJQUFJLGtCQUFRRSxtQkFBWixDQUFnQztBQUM1QmYsY0FBVSxJQURrQjtBQUU1QmdCLFdBQU87QUFGcUIsQ0FBaEMsQ0FQSjtBQVdJO0FBQ0E7QUFDQSxJQUFJLGtCQUFRQyxZQUFaLENBQXlCLE1BQXpCLENBYkosRUFjSSxJQUFJLGtCQUFRQyxRQUFSLENBQWlCQyxjQUFyQixDQUFvQztBQUNoQ3JCLGVBQVc7QUFEcUIsQ0FBcEMsQ0FkSixFQWlCSSxJQUFJLGtCQUFRb0IsUUFBUixDQUFpQkUsa0JBQXJCLENBQXdDO0FBQ3BDQyxVQUFNLFFBRDhCO0FBRXBDckQsY0FBVSx5QkFGMEI7QUFHcENzRCxlQUFXcEQ7QUFIeUIsQ0FBeEMsQ0FqQkosRUFzQkksa0NBQW1CO0FBQ2ZxRCxVQUFNLGVBQUtDLElBQUwsQ0FBVWpCLFNBQVYsRUFBcUIsTUFBckIsQ0FEUztBQUVmdkMsY0FBVSxhQUZLO0FBR2Z5RCxpQkFBYSxJQUhFO0FBSWZDLGNBQVU7QUFDTkMsaUJBQVNDLFFBQVFDLEdBQVIsQ0FBWUM7QUFEZjtBQUpLLENBQW5CLENBdEJKLEVBOEJJLHVDQUFzQjtBQUNsQjlELGNBQVUsMEJBRFE7QUFFbEIrRCxhQUFTLEtBRlM7QUFHbEJDLGVBQVc7QUFITyxDQUF0QixDQTlCSjs7QUFxQ0Esd0JBQWN4QixPQUFkLEdBQXdCLHdCQUFjQSxPQUFkLENBQXNCaEIsTUFBdEIsQ0FBNkJoQixXQUE3QixDQUF4QiIsImZpbGUiOiJ3ZWJwYWNrLmNvbmZpZy5wcm9kLmpzIiwic291cmNlUm9vdCI6Ii92YXIvbm9kZWpzL1R1dG9yaW5nV2ViU3lzdGVtLVdlYi9mcm9udGVuZCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBjb25maWcgZnJvbSAnY29uZmlnJztcbmltcG9ydCBwYXRoIGZyb20gJ3BhdGgnO1xuaW1wb3J0IHdlYnBhY2sgZnJvbSAnd2VicGFjayc7XG5pbXBvcnQgSHRtbFdlYnBhY2tQbHVnaW4gZnJvbSAnaHRtbC13ZWJwYWNrLXBsdWdpbic7XG5pbXBvcnQgU2F2ZUFzc2V0c0pzb24gZnJvbSAnYXNzZXRzLXdlYnBhY2stcGx1Z2luJztcbmltcG9ydCBFeHRyYWN0VGV4dFBsdWdpbiBmcm9tICdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nO1xuXG5pbXBvcnQgd2VicGFja0NvbmZpZywge0pTX1NPVVJDRX0gZnJvbSAnLi93ZWJwYWNrLmNvbmZpZy5jb21tb24nO1xuXG4vLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4vLyAgQ09OU1RBTlQgREVDTEFSQVRJT05cbi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cblxuY29uc3QgUFVCTElDX1BBVEggPSBjb25maWcuZ2V0KCdwdWJsaWNQYXRoJyk7XG5jb25zdCBBUFBfRU5UUllfUE9JTlQgPSBgJHtKU19TT1VSQ0V9L3JvdXRlcmA7XG5cbmNvbnN0IHdlYnBhY2tQcm9kT3V0cHV0ID0ge1xuICAgIHB1YmxpY1BhdGg6IFBVQkxJQ19QQVRILFxuICAgIGZpbGVuYW1lOiAnYXNzZXRzL1tuYW1lXS1baGFzaF0uanMnLFxuICAgIGNodW5rRmlsZW5hbWU6ICdhc3NldHMvW2lkXS5baGFzaF0uanMnLFxufTtcblxuLy8gVGhpcyBzZWN0aW9uIGlzIGZvciBjb21tb24gY2h1bmsgYmVoYXZpb3Jcbi8vIGRvIHdlIG5lZWQgdG8gZXhjbHVkZSBjc3MgZnJvbSB0aGlzIHJ1bGVcbmNvbnN0IG9wdGltaXphdGlvbk1pbkNodW5rcyA9IGNvbmZpZy5nZXQoJ29wdGltaXphdGlvbi5jc3NFeGNsdXNpb24nKSA/XG4gICAgZnVuY3Rpb24gKG1vZHVsZSwgY291bnQpIHtcbiAgICAgICAgcmV0dXJuIG1vZHVsZS5yZXNvdXJjZSAmJlxuICAgICAgICAgICAgISgvXFwuY3NzLykudGVzdChtb2R1bGUucmVzb3VyY2UpICYmXG4gICAgICAgICAgICBjb3VudCA+PSBjb25maWcuZ2V0KCdvcHRpbWl6YXRpb24uY29tbW9uTWluQ291bnQnKTtcbiAgICB9XG4gICAgOlxuICAgIGNvbmZpZy5nZXQoJ29wdGltaXphdGlvbi5jb21tb25NaW5Db3VudCcpO1xuXG5jb25zdCBodG1sID0gY29uZmlnLmdldCgnaHRtbCcpO1xuXG4vLyBQbGVhc2UgY29uZmlndXJlIHRoaXMgc2VjdGlvbiBpZiB5b3UgcGxhblxuLy8gdG8gZGVwbG95IHRoZSBnZW5lcmF0ZWQgaHRtbCB0byBwcm9kdWN0aW9uLlxuLy8gSSBkb24ndCBtaW5kIHlvdSBuYW1lIHlvdXIgcGFnZSBhcyBSZXRyb1xuLy8gaWYgeW91IHdhbnQgdG8gLi4uXG5jb25zdCBodG1sUGx1Z2lucyA9IGh0bWwubWFwKChwYWdlKSA9PlxuICAgIG5ldyBIdG1sV2VicGFja1BsdWdpbih7XG4gICAgICAgIHRpdGxlOiBwYWdlLnRpdGxlLFxuICAgICAgICB0ZW1wbGF0ZTogYHNyYy9hc3NldHMvdGVtcGxhdGUvJHtwYWdlLnRlbXBsYXRlfWAsXG4gICAgICAgIGZhdmljb246IGBzcmMvYXNzZXRzLyR7cGFnZS5mYXZpY29ufWAsXG4gICAgICAgIGluamVjdDogcGFnZS5pbmplY3QsXG4gICAgICAgIGZpbGVuYW1lOiBwYWdlLmZpbGVuYW1lLFxuICAgICAgICBtaW5pZnk6IHtcbiAgICAgICAgICAgIHJlbW92ZUNvbW1lbnRzOiB0cnVlLFxuICAgICAgICAgICAgY29sbGFwc2VXaGl0ZXNwYWNlOiB0cnVlLFxuICAgICAgICAgICAgY29uc2VydmF0aXZlQ29sbGFwc2U6IHRydWUsXG4gICAgICAgIH0sXG4gICAgICAgIGNocm9tZV9zY3JlZW5zaGFyaW5nX2V4dGVuc2lvbjogY29uZmlnLmdldCgnYXBwLmNocm9tZV9zY3JlZW5zaGFyaW5nX2V4dGVuc2lvbicpLFxuICAgIH0pLFxuKTtcblxuLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxuLy8gIEV4dGVuZGluZyBXZWJwYWNrIENvbmZpZ3VyYXRpb25cbi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cblxuLy8gTWVyZ2VzIHdlYnBhY2tQcm9kT3V0cHV0IGFuZCB3ZWJwYWNrQ29uZmlnLm91dHB1dFxud2VicGFja0NvbmZpZy5vdXRwdXQgPSBPYmplY3QuYXNzaWduKHdlYnBhY2tDb25maWcub3V0cHV0LCB3ZWJwYWNrUHJvZE91dHB1dCk7XG5cbndlYnBhY2tDb25maWcubW9kdWxlLnJ1bGVzID0gd2VicGFja0NvbmZpZy5tb2R1bGUucnVsZXMuY29uY2F0KHtcbiAgICB0ZXN0OiAvXFwuc2NzcyQvLFxuICAgIHVzZTogRXh0cmFjdFRleHRQbHVnaW4uZXh0cmFjdCh7XG4gICAgICAgIGZhbGxiYWNrOiAnc3R5bGUtbG9hZGVyJyxcbiAgICAgICAgdXNlOiBbXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAnY3NzLWxvYWRlcicsXG4gICAgICAgICAgICAgICAgb3B0aW9uczoge1xuICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsXG4gICAgICAgICAgICAgICAgICAgIGltcG9ydExvYWRlcnM6IDIsXG4gICAgICAgICAgICAgICAgICAgIG1pbmltaXplOiB0cnVlLFxuICAgICAgICAgICAgICAgICAgICBtb2R1bGVzOiB0cnVlLFxuICAgICAgICAgICAgICAgICAgICBsb2NhbElkZW50TmFtZTogJ1tuYW1lXV9fW2xvY2FsXS0tW2hhc2g6YmFzZTY0OjVdJyxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIHtcbiAgICAgICAgICAgICAgICBsb2FkZXI6ICdwb3N0Y3NzLWxvYWRlcicsXG4gICAgICAgICAgICB9LFxuICAgICAgICAgICAge1xuICAgICAgICAgICAgICAgIGxvYWRlcjogJ3Nhc3MtbG9hZGVyJyxcbiAgICAgICAgICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICAgICAgICAgIHNvdXJjZU1hcDogdHJ1ZSxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgXSxcbiAgICB9KSxcbn0pO1xuXG53ZWJwYWNrQ29uZmlnLmRldnRvb2wgPSAnc291cmNlLW1hcCc7XG5cbndlYnBhY2tDb25maWcuZW50cnkgPSB7XG4gICAgYXBwOiBbJ2JhYmVsLXBvbHlmaWxsJywgcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgQVBQX0VOVFJZX1BPSU5UKV0sXG59O1xuXG53ZWJwYWNrQ29uZmlnLm91dHB1dC5wdWJsaWNQYXRoID0gJy8nO1xuXG53ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChcbiAgICBuZXcgd2VicGFjay5EZWZpbmVQbHVnaW4oe1xuICAgICAgICBfX0NPTkZJR19fOiBKU09OLnN0cmluZ2lmeShjb25maWcuZ2V0KCdhcHAnKSksXG4gICAgICAgICdwcm9jZXNzLmVudic6IHtcbiAgICAgICAgICAgIE5PREVfRU5WOiBKU09OLnN0cmluZ2lmeSgncHJvZHVjdGlvbicpLFxuICAgICAgICB9LFxuICAgIH0pLFxuICAgIG5ldyB3ZWJwYWNrLkxvYWRlck9wdGlvbnNQbHVnaW4oe1xuICAgICAgICBtaW5pbWl6ZTogdHJ1ZSxcbiAgICAgICAgZGVidWc6IGZhbHNlLFxuICAgIH0pLFxuICAgIC8vIGhvdyB5b3Ugd2FudCB5b3VyIGNvZGUgdG8gYmUgb3B0aW1pemVkXG4gICAgLy8gYWxsIGNvbmZpZ3VyYWJsZVxuICAgIG5ldyB3ZWJwYWNrLklnbm9yZVBsdWdpbigvdW5+JC8pLFxuICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHtcbiAgICAgICAgc291cmNlTWFwOiB0cnVlLFxuICAgIH0pLFxuICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLkNvbW1vbnNDaHVua1BsdWdpbih7XG4gICAgICAgIG5hbWU6ICdjb21tb24nLFxuICAgICAgICBmaWxlbmFtZTogJ2Fzc2V0cy9jb21tb24tW2hhc2hdLmpzJyxcbiAgICAgICAgbWluQ2h1bmtzOiBvcHRpbWl6YXRpb25NaW5DaHVua3MsXG4gICAgfSksXG4gICAgbmV3IFNhdmVBc3NldHNKc29uKHtcbiAgICAgICAgcGF0aDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2Rpc3QnKSxcbiAgICAgICAgZmlsZW5hbWU6ICdhc3NldHMuanNvbicsXG4gICAgICAgIHByZXR0eVByaW50OiB0cnVlLFxuICAgICAgICBtZXRhZGF0YToge1xuICAgICAgICAgICAgdmVyc2lvbjogcHJvY2Vzcy5lbnYuUEFDS0FHRV9WRVJTSU9OLFxuICAgICAgICB9LFxuICAgIH0pLFxuICAgIG5ldyBFeHRyYWN0VGV4dFBsdWdpbih7XG4gICAgICAgIGZpbGVuYW1lOiAnYXNzZXRzL1tuYW1lXS1baGFzaF0uY3NzJyxcbiAgICAgICAgZGlzYWJsZTogZmFsc2UsXG4gICAgICAgIGFsbENodW5rczogdHJ1ZSxcbiAgICB9KSxcbik7XG5cbndlYnBhY2tDb25maWcucGx1Z2lucyA9IHdlYnBhY2tDb25maWcucGx1Z2lucy5jb25jYXQoaHRtbFBsdWdpbnMpO1xuXG5leHBvcnQgZGVmYXVsdCB3ZWJwYWNrQ29uZmlnO1xuIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "webpack.config.prod.js"
+      ],
+      "names": [
+        "PUBLIC_PATH",
+        "get",
+        "APP_ENTRY_POINT",
+        "webpackProdOutput",
+        "publicPath",
+        "filename",
+        "chunkFilename",
+        "optimizationMinChunks",
+        "module",
+        "count",
+        "resource",
+        "test",
+        "html",
+        "htmlPlugins",
+        "map",
+        "page",
+        "title",
+        "template",
+        "favicon",
+        "inject",
+        "minify",
+        "removeComments",
+        "collapseWhitespace",
+        "conservativeCollapse",
+        "chrome_screensharing_extension",
+        "output",
+        "Object",
+        "assign",
+        "rules",
+        "concat",
+        "use",
+        "extract",
+        "fallback",
+        "loader",
+        "options",
+        "sourceMap",
+        "importLoaders",
+        "minimize",
+        "modules",
+        "localIdentName",
+        "devtool",
+        "entry",
+        "app",
+        "resolve",
+        "__dirname",
+        "plugins",
+        "push",
+        "DefinePlugin",
+        "__CONFIG__",
+        "JSON",
+        "stringify",
+        "NODE_ENV",
+        "LoaderOptionsPlugin",
+        "debug",
+        "IgnorePlugin",
+        "optimize",
+        "UglifyJsPlugin",
+        "CommonsChunkPlugin",
+        "name",
+        "minChunks",
+        "path",
+        "join",
+        "prettyPrint",
+        "metadata",
+        "version",
+        "process",
+        "env",
+        "PACKAGE_VERSION",
+        "disable",
+        "allChunks"
+      ],
+      "mappings": "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",
+      "file": "webpack.config.prod.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "sourcesContent": [
+        "import config from 'config';\nimport path from 'path';\nimport webpack from 'webpack';\nimport HtmlWebpackPlugin from 'html-webpack-plugin';\nimport SaveAssetsJson from 'assets-webpack-plugin';\nimport ExtractTextPlugin from 'extract-text-webpack-plugin';\n\nimport webpackConfig, {JS_SOURCE} from './webpack.config.common';\n\n// ----------------------------------------------------------\n//  CONSTANT DECLARATION\n// ----------------------------------------------------------\n\nconst PUBLIC_PATH = config.get('publicPath');\nconst APP_ENTRY_POINT = `${JS_SOURCE}/router`;\n\nconst webpackProdOutput = {\n    publicPath: PUBLIC_PATH,\n    filename: 'assets/[name]-[hash].js',\n    chunkFilename: 'assets/[id].[hash].js',\n};\n\n// This section is for common chunk behavior\n// do we need to exclude css from this rule\nconst optimizationMinChunks = config.get('optimization.cssExclusion') ?\n    function (module, count) {\n        return module.resource &&\n            !(/\\.css/).test(module.resource) &&\n            count >= config.get('optimization.commonMinCount');\n    }\n    :\n    config.get('optimization.commonMinCount');\n\nconst html = config.get('html');\n\n// Please configure this section if you plan\n// to deploy the generated html to production.\n// I don't mind you name your page as Retro\n// if you want to ...\nconst htmlPlugins = html.map((page) =>\n    new HtmlWebpackPlugin({\n        title: page.title,\n        template: `src/assets/template/${page.template}`,\n        favicon: `src/assets/${page.favicon}`,\n        inject: page.inject,\n        filename: page.filename,\n        minify: {\n            removeComments: true,\n            collapseWhitespace: true,\n            conservativeCollapse: true,\n        },\n        chrome_screensharing_extension: config.get('app.chrome_screensharing_extension'),\n    }),\n);\n\n// ----------------------------------------------------------\n//  Extending Webpack Configuration\n// ----------------------------------------------------------\n\n// Merges webpackProdOutput and webpackConfig.output\nwebpackConfig.output = Object.assign(webpackConfig.output, webpackProdOutput);\n\nwebpackConfig.module.rules = webpackConfig.module.rules.concat({\n    test: /\\.scss$/,\n    use: ExtractTextPlugin.extract({\n        fallback: 'style-loader',\n        use: [\n            {\n                loader: 'css-loader',\n                options: {\n                    sourceMap: true,\n                    importLoaders: 2,\n                    minimize: true,\n                    modules: true,\n                    localIdentName: '[name]__[local]--[hash:base64:5]',\n                },\n            },\n            {\n                loader: 'postcss-loader',\n            },\n            {\n                loader: 'sass-loader',\n                options: {\n                    sourceMap: true,\n                },\n            },\n        ],\n    }),\n});\n\nwebpackConfig.devtool = 'source-map';\n\nwebpackConfig.entry = {\n    app: ['babel-polyfill', path.resolve(__dirname, APP_ENTRY_POINT)],\n};\n\nwebpackConfig.output.publicPath = '/';\n\nwebpackConfig.plugins.push(\n    new webpack.DefinePlugin({\n        __CONFIG__: JSON.stringify(config.get('app')),\n        'process.env': {\n            NODE_ENV: JSON.stringify('production'),\n        },\n    }),\n    new webpack.LoaderOptionsPlugin({\n        minimize: true,\n        debug: false,\n    }),\n    // how you want your code to be optimized\n    // all configurable\n    new webpack.IgnorePlugin(/un~$/),\n    new webpack.optimize.UglifyJsPlugin({\n        sourceMap: true,\n    }),\n    new webpack.optimize.CommonsChunkPlugin({\n        name: 'common',\n        filename: 'assets/common-[hash].js',\n        minChunks: optimizationMinChunks,\n    }),\n    new SaveAssetsJson({\n        path: path.join(__dirname, 'dist'),\n        filename: 'assets.json',\n        prettyPrint: true,\n        metadata: {\n            version: process.env.PACKAGE_VERSION,\n        },\n    }),\n    new ExtractTextPlugin({\n        filename: 'assets/[name]-[hash].css',\n        disable: false,\n        allChunks: true,\n    }),\n);\n\nwebpackConfig.plugins = webpackConfig.plugins.concat(htmlPlugins);\n\nexport default webpackConfig;\n"
+      ]
+    },
+    "mtime": 1521817712333
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.common.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:release": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "path",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "path"
+              }
+            ]
+          },
+          {
+            "source": "webpack",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "webpack"
+              }
+            ]
+          },
+          {
+            "source": "extract-text-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "ExtractTextPlugin"
+              }
+            ]
+          },
+          {
+            "source": "case-sensitive-paths-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "CaseSensitivePathsPlugin"
+              }
+            ]
+          },
+          {
+            "source": "config",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "config"
+              }
+            ]
+          },
+          {
+            "source": "fs",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "fs"
+              }
+            ]
+          },
+          {
+            "source": "./bin/shouldBuild",
+            "imported": [
+              "SHOULD_BUILD"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "SHOULD_BUILD",
+                "local": "SHOULD_BUILD"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [
+            "JS_SOURCE"
+          ],
+          "specifiers": [
+            {
+              "kind": "local",
+              "local": "JS_SOURCE",
+              "exported": "JS_SOURCE"
+            }
+          ]
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.common.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.common.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "webpack.config.common.js",
+      "sourceFileName": "webpack.config.common.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "webpack.config.common"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\nexports.JS_SOURCE = undefined;\n\nvar _path = require('path');\n\nvar _path2 = _interopRequireDefault(_path);\n\nvar _webpack = require('webpack');\n\nvar _webpack2 = _interopRequireDefault(_webpack);\n\nvar _extractTextWebpackPlugin = require('extract-text-webpack-plugin');\n\nvar _extractTextWebpackPlugin2 = _interopRequireDefault(_extractTextWebpackPlugin);\n\nvar _caseSensitivePathsWebpackPlugin = require('case-sensitive-paths-webpack-plugin');\n\nvar _caseSensitivePathsWebpackPlugin2 = _interopRequireDefault(_caseSensitivePathsWebpackPlugin);\n\nvar _config = require('config');\n\nvar _config2 = _interopRequireDefault(_config);\n\nvar _fs = require('fs');\n\nvar _fs2 = _interopRequireDefault(_fs);\n\nvar _shouldBuild = require('./bin/shouldBuild');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// trace which loader is deprecated\n// feel free to remove that if you don't need this feature\nprocess.traceDeprecation = false;\n\n// Please read the following link if\n// you have no idea how to use this feature\n// https://github.com/motdotla/dotenv\n// Requiring dependencies\n// ================================================================================\nif (!_shouldBuild.SHOULD_BUILD) {\n    require('dotenv').config({ silent: true });\n}\n\n// Environment variable injection\n// ================================================================================\nvar version = JSON.parse(_fs2.default.readFileSync('package.json', 'utf8')).version;\nprocess.env.PACKAGE_VERSION = version;\n\n// Defining config variables\n// ================================================================================\nvar BUILD_PATH = _path2.default.join(__dirname, 'dist');\n\nvar COMMON_LOADERS = [{\n    test: /\\.(?:ico|gif|png|jpg|jpeg|webp|svg)$/i,\n    use: [{\n        loader: 'file-loader',\n        options: {\n            hash: 'sha512',\n            digest: 'hex',\n            name: 'assets/[hash].[ext]'\n        }\n    }, {\n        loader: 'image-webpack-loader',\n        options: {\n            query: {\n                mozjpeg: {\n                    progressive: true\n                },\n                gifsicle: {\n                    interlaced: true\n                },\n                optipng: {\n                    optimizationLevel: 7\n                },\n                pngquant: {\n                    quality: '65-90',\n                    speed: 4\n                }\n            }\n        }\n    }]\n}, {\n    test: /\\.(js|jsx)?$/,\n    exclude: /node_modules/,\n    loader: 'babel-loader',\n    options: {\n        cacheDirectory: true,\n        plugins: ['transform-runtime', 'transform-decorators-legacy']\n    }\n}, {\n    test: /\\.woff(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/font-woff'\n        }\n    }]\n}, {\n    test: /\\.woff2(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/font-woff'\n        }\n    }]\n}, {\n    test: /\\.[ot]tf(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/octet-stream'\n        }\n    }]\n}, {\n    test: /\\.eot(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/vnd.ms-fontobject'\n        }\n    }]\n}, {\n    test: /\\.(ogg|mp3|wav|mpe?g)$/i,\n    use: 'file-loader'\n}];\n\n// Export\n// ===============================================================================\nvar JS_SOURCE = exports.JS_SOURCE = _config2.default.get('jsSourcePath');\n\nexports.default = {\n    output: {\n        path: BUILD_PATH\n    },\n    resolve: {\n        extensions: ['.js', '.jsx', '.css', '.scss'],\n        modules: [_path2.default.join(__dirname, 'src'), _path2.default.join(__dirname, 'assets'), _path2.default.join(__dirname, JS_SOURCE), 'node_modules']\n    },\n    plugins: [new _webpack2.default.IgnorePlugin(/vertx/), // https://github.com/webpack/webpack/issues/353\n    new _caseSensitivePathsWebpackPlugin2.default()],\n    module: {\n        rules: COMMON_LOADERS\n    },\n    node: {\n        console: true,\n        fs: 'empty',\n        net: 'empty',\n        tls: 'empty'\n    },\n    externals: {\n        console: true,\n        fs: '{}',\n        tls: '{}',\n        net: '{}'\n    }\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2suY29uZmlnLmNvbW1vbi5qcyJdLCJuYW1lcyI6WyJwcm9jZXNzIiwidHJhY2VEZXByZWNhdGlvbiIsInJlcXVpcmUiLCJjb25maWciLCJzaWxlbnQiLCJ2ZXJzaW9uIiwiSlNPTiIsInBhcnNlIiwicmVhZEZpbGVTeW5jIiwiZW52IiwiUEFDS0FHRV9WRVJTSU9OIiwiQlVJTERfUEFUSCIsImpvaW4iLCJfX2Rpcm5hbWUiLCJDT01NT05fTE9BREVSUyIsInRlc3QiLCJ1c2UiLCJsb2FkZXIiLCJvcHRpb25zIiwiaGFzaCIsImRpZ2VzdCIsIm5hbWUiLCJxdWVyeSIsIm1vempwZWciLCJwcm9ncmVzc2l2ZSIsImdpZnNpY2xlIiwiaW50ZXJsYWNlZCIsIm9wdGlwbmciLCJvcHRpbWl6YXRpb25MZXZlbCIsInBuZ3F1YW50IiwicXVhbGl0eSIsInNwZWVkIiwiZXhjbHVkZSIsImNhY2hlRGlyZWN0b3J5IiwicGx1Z2lucyIsImxpbWl0IiwibWltZXR5cGUiLCJKU19TT1VSQ0UiLCJnZXQiLCJvdXRwdXQiLCJwYXRoIiwicmVzb2x2ZSIsImV4dGVuc2lvbnMiLCJtb2R1bGVzIiwiSWdub3JlUGx1Z2luIiwibW9kdWxlIiwicnVsZXMiLCJub2RlIiwiY29uc29sZSIsImZzIiwibmV0IiwidGxzIiwiZXh0ZXJuYWxzIl0sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBRUE7Ozs7QUFDQTs7OztBQUNBOzs7O0FBQ0E7Ozs7QUFDQTs7OztBQUNBOzs7O0FBRUE7Ozs7QUFFQTtBQUNBO0FBQ0FBLFFBQVFDLGdCQUFSLEdBQTJCLEtBQTNCOztBQUVBO0FBQ0E7QUFDQTtBQWpCQTtBQUNBO0FBaUJBLElBQUksMEJBQUosRUFBbUI7QUFDZkMsWUFBUSxRQUFSLEVBQWtCQyxNQUFsQixDQUF5QixFQUFFQyxRQUFRLElBQVYsRUFBekI7QUFDSDs7QUFFRDtBQUNBO0FBQ0EsSUFBTUMsVUFBVUMsS0FBS0MsS0FBTCxDQUFXLGFBQUdDLFlBQUgsQ0FBZ0IsY0FBaEIsRUFB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SyxJQUhFO0FBSVBELGFBQUs7QUFKRTtBQTFCQSxDIiwiZmlsZSI6IndlYnBhY2suY29uZmlnLmNvbW1vbi5qcyIsInNvdXJjZVJvb3QiOiIvdmFyL25vZGVqcy9UdXRvcmluZ1dlYlN5c3RlbS1XZWIvZnJvbnRlbmQiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBSZXF1aXJpbmcgZGVwZW5kZW5jaWVzXG4vLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVxuaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7XG5pbXBvcnQgd2VicGFjayBmcm9tICd3ZWJwYWNrJztcbmltcG9ydCBFeHRyYWN0VGV4dFBsdWdpbiBmcm9tICdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nO1xuaW1wb3J0IENhc2VTZW5zaXRpdmVQYXRoc1BsdWdpbiBmcm9tICdjYXNlLXNlbnNpdGl2ZS1wYXRocy13ZWJwYWNrLXBsdWdpbic7XG5pbXBvcnQgY29uZmlnIGZyb20gJ2NvbmZpZyc7XG5pbXBvcnQgZnMgZnJvbSAnZnMnO1xuXG5pbXBvcnQgeyBTSE9VTERfQlVJTEQgfSBmcm9tICcuL2Jpbi9zaG91bGRCdWlsZCc7XG5cbi8vIHRyYWNlIHdoaWNoIGxvYWRlciBpcyBkZXByZWNhdGVkXG4vLyBmZWVsIGZyZWUgdG8gcmVtb3ZlIHRoYXQgaWYgeW91IGRvbid0IG5lZWQgdGhpcyBmZWF0dXJlXG5wcm9jZXNzLnRyYWNlRGVwcmVjYXRpb24gPSBmYWxzZTtcblxuLy8gUGxlYXNlIHJlYWQgdGhlIGZvbGxvd2luZyBsaW5rIGlmXG4vLyB5b3UgaGF2ZSBubyBpZGVhIGhvdyB0byB1c2UgdGhpcyBmZWF0dXJlXG4vLyBodHRwczovL2dpdGh1Yi5jb20vbW90ZG90bGEvZG90ZW52XG5pZiAoIVNIT1VMRF9CVUlMRCkge1xuICAgIHJlcXVpcmUoJ2RvdGVudicpLmNvbmZpZyh7IHNpbGVudDogdHJ1ZSB9KTtcbn1cblxuLy8gRW52aXJvbm1lbnQgdmFyaWFibGUgaW5qZWN0aW9uXG4vLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVxuY29uc3QgdmVyc2lvbiA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKCdwYWNrYWdlLmpzb24nLCAndXRmOCcpKS52ZXJzaW9uO1xucHJvY2Vzcy5lbnYuUEFDS0FHRV9WRVJTSU9OID0gdmVyc2lvbjtcblxuLy8gRGVmaW5pbmcgY29uZmlnIHZhcmlhYmxlc1xuLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1cbmNvbnN0IEJVSUxEX1BBVEggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnZGlzdCcpO1xuXG5jb25zdCBDT01NT05fTE9BREVSUyA9IFtcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC4oPzppY298Z2lmfHBuZ3xqcGd8anBlZ3x3ZWJwfHN2ZykkL2ksXG4gICAgICAgIHVzZTogW1xuICAgICAgICAgICAge1xuICAgICAgICAgICAgICAgIGxvYWRlcjogJ2ZpbGUtbG9hZGVyJyxcbiAgICAgICAgICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICAgICAgICAgIGhhc2g6ICdzaGE1MTInLFxuICAgICAgICAgICAgICAgICAgICBkaWdlc3Q6ICdoZXgnLFxuICAgICAgICAgICAgICAgICAgICBuYW1lOiAnYXNzZXRzL1toYXNoXS5bZXh0XScsXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAnaW1hZ2Utd2VicGFjay1sb2FkZXInLFxuICAgICAgICAgICAgICAgIG9wdGlvbnM6IHtcbiAgICAgICAgICAgICAgICAgICAgcXVlcnk6IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1vempwZWc6IHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9ncmVzc2l2ZTogdHJ1ZSxcbiAgICAgICAgICAgICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgICAgICAgICAgICBnaWZzaWNsZToge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVybGFjZWQ6IHRydWUsXG4gICAgICAgICAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgICAgICAgICAgICAgb3B0aXBuZzoge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGltaXphdGlvbkxldmVsOiA3LFxuICAgICAgICAgICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgICAgICAgICAgICAgIHBuZ3F1YW50OiB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcXVhbGl0eTogJzY1LTkwJyxcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcGVlZDogNCxcbiAgICAgICAgICAgICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgIF0sXG4gICAgfSwge1xuICAgICAgICB0ZXN0OiAvXFwuKGpzfGpzeCk/JC8sXG4gICAgICAgIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXMvLFxuICAgICAgICBsb2FkZXI6ICdiYWJlbC1sb2FkZXInLFxuICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICBjYWNoZURpcmVjdG9yeTogdHJ1ZSxcbiAgICAgICAgICAgIHBsdWdpbnM6IFsndHJhbnNmb3JtLXJ1bnRpbWUnLCAndHJhbnNmb3JtLWRlY29yYXRvcnMtbGVnYWN5J10sXG4gICAgICAgIH0sXG4gICAgfSxcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC53b2ZmKFxcP3Y9XFxkK1xcLlxcZCtcXC5cXGQrKT8kLyxcbiAgICAgICAgdXNlOiBbXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsXG4gICAgICAgICAgICAgICAgb3B0aW9uczoge1xuICAgICAgICAgICAgICAgICAgICBsaW1pdDogMTAwMDAsXG4gICAgICAgICAgICAgICAgICAgIG1pbWV0eXBlOiAnYXBwbGljYXRpb24vZm9udC13b2ZmJyxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgXSxcbiAgICB9LFxuICAgIHtcbiAgICAgICAgdGVzdDogL1xcLndvZmYyKFxcP3Y9XFxkK1xcLlxcZCtcXC5cXGQrKT8kLyxcbiAgICAgICAgdXNlOiBbXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsXG4gICAgICAgICAgICAgICAgb3B0aW9uczoge1xuICAgICAgICAgICAgICAgICAgICBsaW1pdDogMTAwMDAsXG4gICAgICAgICAgICAgICAgICAgIG1pbWV0eXBlOiAnYXBwbGljYXRpb24vZm9udC13b2ZmJyxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgXSxcbiAgICB9LFxuICAgIHtcbiAgICAgICAgdGVzdDogL1xcLltvdF10ZihcXD92PVxcZCtcXC5cXGQrXFwuXFxkKyk/JC8sXG4gICAgICAgIHVzZTogW1xuICAgICAgICAgICAge1xuICAgICAgICAgICAgICAgIGxvYWRlcjogJ3VybC1sb2FkZXInLFxuICAgICAgICAgICAgICAgIG9wdGlvbnM6IHtcbiAgICAgICAgICAgICAgICAgICAgbGltaXQ6IDEwMDAwLFxuICAgICAgICAgICAgICAgICAgICBtaW1ldHlwZTogJ2FwcGxpY2F0aW9uL29jdGV0LXN0cmVhbScsXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgIF0sXG4gICAgfSxcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC5lb3QoXFw/dj1cXGQrXFwuXFxkK1xcLlxcZCspPyQvLFxuICAgICAgICB1c2U6IFtcbiAgICAgICAgICAgIHtcbiAgICAgICAgICAgICAgICBsb2FkZXI6ICd1cmwtbG9hZGVyJyxcbiAgICAgICAgICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICAgICAgICAgIGxpbWl0OiAxMDAwMCxcbiAgICAgICAgICAgICAgICAgICAgbWltZXR5cGU6ICdhcHBsaWNhdGlvbi92bmQubXMtZm9udG9iamVjdCcsXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgIF0sXG4gICAgfSxcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC4ob2dnfG1wM3x3YXZ8bXBlP2cpJC9pLFxuICAgICAgICB1c2U6ICdmaWxlLWxvYWRlcicsXG4gICAgfSxcbl07XG5cbi8vIEV4cG9ydFxuLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVxuZXhwb3J0IGNvbnN0IEpTX1NPVVJDRSA9IGNvbmZpZy5nZXQoJ2pzU291cmNlUGF0aCcpO1xuXG5leHBvcnQgZGVmYXVsdCB7XG4gICAgb3V0cHV0OiB7XG4gICAgICAgIHBhdGg6IEJVSUxEX1BBVEgsXG4gICAgfSxcbiAgICByZXNvbHZlOiB7XG4gICAgICAgIGV4dGVuc2lvbnM6IFsnLmpzJywgJy5qc3gnLCAnLmNzcycsICcuc2NzcyddLFxuICAgICAgICBtb2R1bGVzOiBbXG4gICAgICAgICAgICBwYXRoLmpvaW4oX19kaXJuYW1lLCAnc3JjJyksXG4gICAgICAgICAgICBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXNzZXRzJyksXG4gICAgICAgICAgICBwYXRoLmpvaW4oX19kaXJuYW1lLCBKU19TT1VSQ0UpLFxuICAgICAgICAgICAgJ25vZGVfbW9kdWxlcycsXG4gICAgICAgIF0sXG4gICAgfSxcbiAgICBwbHVnaW5zOiBbXG4gICAgICAgIG5ldyB3ZWJwYWNrLklnbm9yZVBsdWdpbigvdmVydHgvKSwgLy8gaHR0cHM6Ly9naXRodWIuY29tL3dlYnBhY2svd2VicGFjay9pc3N1ZXMvMzUzXG4gICAgICAgIG5ldyBDYXNlU2Vuc2l0aXZlUGF0aHNQbHVnaW4oKSxcbiAgICBdLFxuICAgIG1vZHVsZToge1xuICAgICAgICBydWxlczogQ09NTU9OX0xPQURFUlMsXG4gICAgfSxcbiAgICBub2RlOiB7XG4gICAgICAgIGNvbnNvbGU6IHRydWUsXG4gICAgICAgIGZzOiAnZW1wdHknLFxuICAgICAgICBuZXQ6ICdlbXB0eScsXG4gICAgICAgIHRsczogJ2VtcHR5JyxcbiAgICB9LFxuICAgIGV4dGVybmFsczoge1xuICAgICAgICBjb25zb2xlOiB0cnVlLFxuICAgICAgICBmczogJ3t9JyxcbiAgICAgICAgdGxzOiAne30nLFxuICAgICAgICBuZXQ6ICd7fScsXG4gICAgfSxcbn07XG4iXX0=",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "webpack.config.common.js"
+      ],
+      "names": [
+        "process",
+        "traceDeprecation",
+        "require",
+        "config",
+        "silent",
+        "version",
+        "JSON",
+        "parse",
+        "readFileSync",
+        "env",
+        "PACKAGE_VERSION",
+        "BUILD_PATH",
+        "join",
+        "__dirname",
+        "COMMON_LOADERS",
+        "test",
+        "use",
+        "loader",
+        "options",
+        "hash",
+        "digest",
+        "name",
+        "query",
+        "mozjpeg",
+        "progressive",
+        "gifsicle",
+        "interlaced",
+        "optipng",
+        "optimizationLevel",
+        "pngquant",
+        "quality",
+        "speed",
+        "exclude",
+        "cacheDirectory",
+        "plugins",
+        "limit",
+        "mimetype",
+        "JS_SOURCE",
+        "get",
+        "output",
+        "path",
+        "resolve",
+        "extensions",
+        "modules",
+        "IgnorePlugin",
+        "module",
+        "rules",
+        "node",
+        "console",
+        "fs",
+        "net",
+        "tls",
+        "externals"
+      ],
+      "mappings": "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",
+      "file": "webpack.config.common.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "sourcesContent": [
+        "// Requiring dependencies\n// ================================================================================\nimport path from 'path';\nimport webpack from 'webpack';\nimport ExtractTextPlugin from 'extract-text-webpack-plugin';\nimport CaseSensitivePathsPlugin from 'case-sensitive-paths-webpack-plugin';\nimport config from 'config';\nimport fs from 'fs';\n\nimport { SHOULD_BUILD } from './bin/shouldBuild';\n\n// trace which loader is deprecated\n// feel free to remove that if you don't need this feature\nprocess.traceDeprecation = false;\n\n// Please read the following link if\n// you have no idea how to use this feature\n// https://github.com/motdotla/dotenv\nif (!SHOULD_BUILD) {\n    require('dotenv').config({ silent: true });\n}\n\n// Environment variable injection\n// ================================================================================\nconst version = JSON.parse(fs.readFileSync('package.json', 'utf8')).version;\nprocess.env.PACKAGE_VERSION = version;\n\n// Defining config variables\n// ================================================================================\nconst BUILD_PATH = path.join(__dirname, 'dist');\n\nconst COMMON_LOADERS = [\n    {\n        test: /\\.(?:ico|gif|png|jpg|jpeg|webp|svg)$/i,\n        use: [\n            {\n                loader: 'file-loader',\n                options: {\n                    hash: 'sha512',\n                    digest: 'hex',\n                    name: 'assets/[hash].[ext]',\n                },\n            },\n            {\n                loader: 'image-webpack-loader',\n                options: {\n                    query: {\n                        mozjpeg: {\n                            progressive: true,\n                        },\n                        gifsicle: {\n                            interlaced: true,\n                        },\n                        optipng: {\n                            optimizationLevel: 7,\n                        },\n                        pngquant: {\n                            quality: '65-90',\n                            speed: 4,\n                        },\n                    },\n                },\n            },\n        ],\n    }, {\n        test: /\\.(js|jsx)?$/,\n        exclude: /node_modules/,\n        loader: 'babel-loader',\n        options: {\n            cacheDirectory: true,\n            plugins: ['transform-runtime', 'transform-decorators-legacy'],\n        },\n    },\n    {\n        test: /\\.woff(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/font-woff',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.woff2(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/font-woff',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.[ot]tf(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/octet-stream',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.eot(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/vnd.ms-fontobject',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.(ogg|mp3|wav|mpe?g)$/i,\n        use: 'file-loader',\n    },\n];\n\n// Export\n// ===============================================================================\nexport const JS_SOURCE = config.get('jsSourcePath');\n\nexport default {\n    output: {\n        path: BUILD_PATH,\n    },\n    resolve: {\n        extensions: ['.js', '.jsx', '.css', '.scss'],\n        modules: [\n            path.join(__dirname, 'src'),\n            path.join(__dirname, 'assets'),\n            path.join(__dirname, JS_SOURCE),\n            'node_modules',\n        ],\n    },\n    plugins: [\n        new webpack.IgnorePlugin(/vertx/), // https://github.com/webpack/webpack/issues/353\n        new CaseSensitivePathsPlugin(),\n    ],\n    module: {\n        rules: COMMON_LOADERS,\n    },\n    node: {\n        console: true,\n        fs: 'empty',\n        net: 'empty',\n        tls: 'empty',\n    },\n    externals: {\n        console: true,\n        fs: '{}',\n        tls: '{}',\n        net: '{}',\n    },\n};\n"
+      ]
+    },
+    "mtime": 1521616384302
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.babel.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:production": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "./bin/shouldBuild",
+            "imported": [
+              "SHOULD_BUILD"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "SHOULD_BUILD",
+                "local": "SHOULD_BUILD"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.babel.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.babel.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "webpack.config.babel.js",
+      "sourceFileName": "webpack.config.babel.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "webpack.config.babel"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n                    value: true\n});\n\nvar _shouldBuild = require('./bin/shouldBuild');\n\n// Defining config variables\n// ================================================================================\n\n// If it's production or release, we use the production config,\n// Otherwise, use the development config\n// please looked at ./bin/shouldBuild.js\nvar webpackConfig = _shouldBuild.SHOULD_BUILD ? require('./webpack.config.prod') : require('./webpack.config.dev');\n\nexports.default = webpackConfig;\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2suY29uZmlnLmJhYmVsLmpzIl0sIm5hbWVzIjpbIndlYnBhY2tDb25maWciLCJyZXF1aXJlIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQTs7QUFDQTtBQUNBOztBQUVBO0FBQ0E7QUFDQTtBQUNBLElBQU1BLGdCQUFnQiw0QkFDQUMsUUFBUSx1QkFBUixDQURBLEdBRUFBLFFBQVEsc0JBQVIsQ0FGdEI7O2tCQUllRCxhIiwiZmlsZSI6IndlYnBhY2suY29uZmlnLmJhYmVsLmpzIiwic291cmNlUm9vdCI6Ii92YXIvbm9kZWpzL1R1dG9yaW5nV2ViU3lzdGVtLVdlYi9mcm9udGVuZCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFNIT1VMRF9CVUlMRCB9IGZyb20gJy4vYmluL3Nob3VsZEJ1aWxkJztcbi8vIERlZmluaW5nIGNvbmZpZyB2YXJpYWJsZXNcbi8vID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09XG5cbi8vIElmIGl0J3MgcHJvZHVjdGlvbiBvciByZWxlYXNlLCB3ZSB1c2UgdGhlIHByb2R1Y3Rpb24gY29uZmlnLFxuLy8gT3RoZXJ3aXNlLCB1c2UgdGhlIGRldmVsb3BtZW50IGNvbmZpZ1xuLy8gcGxlYXNlIGxvb2tlZCBhdCAuL2Jpbi9zaG91bGRCdWlsZC5qc1xuY29uc3Qgd2VicGFja0NvbmZpZyA9IChTSE9VTERfQlVJTEQpXG4gICAgICAgICAgICAgICAgICAgID8gcmVxdWlyZSgnLi93ZWJwYWNrLmNvbmZpZy5wcm9kJylcbiAgICAgICAgICAgICAgICAgICAgOiByZXF1aXJlKCcuL3dlYnBhY2suY29uZmlnLmRldicpO1xuXG5leHBvcnQgZGVmYXVsdCB3ZWJwYWNrQ29uZmlnO1xuIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "webpack.config.babel.js"
+      ],
+      "names": [
+        "webpackConfig",
+        "require"
+      ],
+      "mappings": ";;;;;;AAAA;;AACA;AACA;;AAEA;AACA;AACA;AACA,IAAMA,gBAAgB,4BACAC,QAAQ,uBAAR,CADA,GAEAA,QAAQ,sBAAR,CAFtB;;kBAIeD,a",
+      "file": "webpack.config.babel.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "sourcesContent": [
+        "import { SHOULD_BUILD } from './bin/shouldBuild';\n// Defining config variables\n// ================================================================================\n\n// If it's production or release, we use the production config,\n// Otherwise, use the development config\n// please looked at ./bin/shouldBuild.js\nconst webpackConfig = (SHOULD_BUILD)\n                    ? require('./webpack.config.prod')\n                    : require('./webpack.config.dev');\n\nexport default webpackConfig;\n"
+      ]
+    },
+    "mtime": 1521616384302
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/bin/shouldBuild.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend/bin\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:production": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [],
+        "exports": {
+          "exported": [
+            "SHOULD_BUILD"
+          ],
+          "specifiers": [
+            {
+              "kind": "local",
+              "local": "SHOULD_BUILD",
+              "exported": "SHOULD_BUILD"
+            }
+          ]
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/bin/shouldBuild.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/bin/shouldBuild.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "shouldBuild.js",
+      "sourceFileName": "shouldBuild.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend/bin",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend/bin",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "shouldBuild"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n// - Note: You can add in more environment if you want, our current setting\n// is we only built and optimize `production` and `release`.\n\nvar IS_PRODUCTION = process.env.NODE_ENV === 'production';\nvar IS_RELEASE = process.env.NODE_ENV === 'release';\n\nvar SHOULD_BUILD = exports.SHOULD_BUILD = IS_PRODUCTION || IS_RELEASE;\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNob3VsZEJ1aWxkLmpzIl0sIm5hbWVzIjpbIklTX1BST0RVQ1RJT04iLCJwcm9jZXNzIiwiZW52IiwiTk9ERV9FTlYiLCJJU19SRUxFQVNFIiwiU0hPVUxEX0JVSUxEIl0sIm1hcHBpbmdzIjoiOzs7OztBQUFBO0FBQ0E7O0FBRUEsSUFBTUEsZ0JBQWdCQyxRQUFRQyxHQUFSLENBQVlDLFFBQVosS0FBeUIsWUFBL0M7QUFDQSxJQUFNQyxhQUFhSCxRQUFRQyxHQUFSLENBQVlDLFFBQVosS0FBeUIsU0FBNUM7O0FBRU8sSUFBTUUsc0NBQWVMLGlCQUFpQkksVUFBdEMiLCJmaWxlIjoic2hvdWxkQnVpbGQuanMiLCJzb3VyY2VSb290IjoiL3Zhci9ub2RlanMvVHV0b3JpbmdXZWJTeXN0ZW0tV2ViL2Zyb250ZW5kL2JpbiIsInNvdXJjZXNDb250ZW50IjpbIi8vIC0gTm90ZTogWW91IGNhbiBhZGQgaW4gbW9yZSBlbnZpcm9ubWVudCBpZiB5b3Ugd2FudCwgb3VyIGN1cnJlbnQgc2V0dGluZ1xuLy8gaXMgd2Ugb25seSBidWlsdCBhbmQgb3B0aW1pemUgYHByb2R1Y3Rpb25gIGFuZCBgcmVsZWFzZWAuXG5cbmNvbnN0IElTX1BST0RVQ1RJT04gPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ3Byb2R1Y3Rpb24nO1xuY29uc3QgSVNfUkVMRUFTRSA9IHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncmVsZWFzZSc7XG5cbmV4cG9ydCBjb25zdCBTSE9VTERfQlVJTEQgPSBJU19QUk9EVUNUSU9OIHx8IElTX1JFTEVBU0U7Il19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "shouldBuild.js"
+      ],
+      "names": [
+        "IS_PRODUCTION",
+        "process",
+        "env",
+        "NODE_ENV",
+        "IS_RELEASE",
+        "SHOULD_BUILD"
+      ],
+      "mappings": ";;;;;AAAA;AACA;;AAEA,IAAMA,gBAAgBC,QAAQC,GAAR,CAAYC,QAAZ,KAAyB,YAA/C;AACA,IAAMC,aAAaH,QAAQC,GAAR,CAAYC,QAAZ,KAAyB,SAA5C;;AAEO,IAAME,sCAAeL,iBAAiBI,UAAtC",
+      "file": "shouldBuild.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend/bin",
+      "sourcesContent": [
+        "// - Note: You can add in more environment if you want, our current setting\n// is we only built and optimize `production` and `release`.\n\nconst IS_PRODUCTION = process.env.NODE_ENV === 'production';\nconst IS_RELEASE = process.env.NODE_ENV === 'release';\n\nexport const SHOULD_BUILD = IS_PRODUCTION || IS_RELEASE;"
+      ]
+    },
+    "mtime": 1521616384210
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.prod.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:production": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "config",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "config"
+              }
+            ]
+          },
+          {
+            "source": "path",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "path"
+              }
+            ]
+          },
+          {
+            "source": "webpack",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "webpack"
+              }
+            ]
+          },
+          {
+            "source": "html-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "HtmlWebpackPlugin"
+              }
+            ]
+          },
+          {
+            "source": "assets-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "SaveAssetsJson"
+              }
+            ]
+          },
+          {
+            "source": "extract-text-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "ExtractTextPlugin"
+              }
+            ]
+          },
+          {
+            "source": "./webpack.config.common",
+            "imported": [
+              "default",
+              "JS_SOURCE"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "webpackConfig"
+              },
+              {
+                "kind": "named",
+                "imported": "JS_SOURCE",
+                "local": "JS_SOURCE"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.prod.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.prod.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "webpack.config.prod.js",
+      "sourceFileName": "webpack.config.prod.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "webpack.config.prod"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _config = require('config');\n\nvar _config2 = _interopRequireDefault(_config);\n\nvar _path = require('path');\n\nvar _path2 = _interopRequireDefault(_path);\n\nvar _webpack = require('webpack');\n\nvar _webpack2 = _interopRequireDefault(_webpack);\n\nvar _htmlWebpackPlugin = require('html-webpack-plugin');\n\nvar _htmlWebpackPlugin2 = _interopRequireDefault(_htmlWebpackPlugin);\n\nvar _assetsWebpackPlugin = require('assets-webpack-plugin');\n\nvar _assetsWebpackPlugin2 = _interopRequireDefault(_assetsWebpackPlugin);\n\nvar _extractTextWebpackPlugin = require('extract-text-webpack-plugin');\n\nvar _extractTextWebpackPlugin2 = _interopRequireDefault(_extractTextWebpackPlugin);\n\nvar _webpackConfig = require('./webpack.config.common');\n\nvar _webpackConfig2 = _interopRequireDefault(_webpackConfig);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// ----------------------------------------------------------\n//  CONSTANT DECLARATION\n// ----------------------------------------------------------\n\nvar PUBLIC_PATH = _config2.default.get('publicPath');\nvar APP_ENTRY_POINT = _webpackConfig.JS_SOURCE + '/router';\n\nvar webpackProdOutput = {\n    publicPath: PUBLIC_PATH,\n    filename: 'assets/[name]-[hash].js',\n    chunkFilename: 'assets/[id].[hash].js'\n};\n\n// This section is for common chunk behavior\n// do we need to exclude css from this rule\nvar optimizationMinChunks = _config2.default.get('optimization.cssExclusion') ? function (module, count) {\n    return module.resource && !/\\.css/.test(module.resource) && count >= _config2.default.get('optimization.commonMinCount');\n} : _config2.default.get('optimization.commonMinCount');\n\nvar html = _config2.default.get('html');\n\n// Please configure this section if you plan\n// to deploy the generated html to production.\n// I don't mind you name your page as Retro\n// if you want to ...\nvar htmlPlugins = html.map(function (page) {\n    return new _htmlWebpackPlugin2.default({\n        title: page.title,\n        template: 'src/assets/template/' + page.template,\n        favicon: 'src/assets/' + page.favicon,\n        inject: page.inject,\n        filename: page.filename,\n        minify: {\n            removeComments: true,\n            collapseWhitespace: true,\n            conservativeCollapse: true\n        },\n        chrome_screensharing_extension: _config2.default.get('app.chrome_screensharing_extension')\n    });\n});\n\n// ----------------------------------------------------------\n//  Extending Webpack Configuration\n// ----------------------------------------------------------\n\n// Merges webpackProdOutput and webpackConfig.output\n_webpackConfig2.default.output = Object.assign(_webpackConfig2.default.output, webpackProdOutput);\n\n_webpackConfig2.default.module.rules = _webpackConfig2.default.module.rules.concat({\n    test: /\\.scss$/,\n    use: _extractTextWebpackPlugin2.default.extract({\n        fallback: 'style-loader',\n        use: [{\n            loader: 'css-loader',\n            options: {\n                sourceMap: true,\n                importLoaders: 2,\n                minimize: true,\n                modules: true,\n                localIdentName: '[name]__[local]--[hash:base64:5]'\n            }\n        }, {\n            loader: 'postcss-loader'\n        }, {\n            loader: 'sass-loader',\n            options: {\n                sourceMap: true\n            }\n        }]\n    })\n});\n\n_webpackConfig2.default.devtool = 'source-map';\n\n_webpackConfig2.default.entry = {\n    app: ['babel-polyfill', _path2.default.resolve(__dirname, APP_ENTRY_POINT)]\n};\n\n_webpackConfig2.default.output.publicPath = '/';\n\n_webpackConfig2.default.plugins.push(new _webpack2.default.DefinePlugin({\n    __CONFIG__: JSON.stringify(_config2.default.get('app')),\n    'process.env': {\n        NODE_ENV: JSON.stringify('production')\n    }\n}), new _webpack2.default.LoaderOptionsPlugin({\n    minimize: true,\n    debug: false\n}),\n// how you want your code to be optimized\n// all configurable\nnew _webpack2.default.IgnorePlugin(/un~$/), new _webpack2.default.optimize.UglifyJsPlugin({\n    sourceMap: true\n}), new _webpack2.default.optimize.CommonsChunkPlugin({\n    name: 'common',\n    filename: 'assets/common-[hash].js',\n    minChunks: optimizationMinChunks\n}), new _assetsWebpackPlugin2.default({\n    path: _path2.default.join(__dirname, 'dist'),\n    filename: 'assets.json',\n    prettyPrint: true,\n    metadata: {\n        version: process.env.PACKAGE_VERSION\n    }\n}), new _extractTextWebpackPlugin2.default({\n    filename: 'assets/[name]-[hash].css',\n    disable: false,\n    allChunks: true\n}));\n\n_webpackConfig2.default.plugins = _webpackConfig2.default.plugins.concat(htmlPlugins);\n\nexports.default = _webpackConfig2.default;\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2suY29uZmlnLnByb2QuanMiXSwibmFtZXMiOlsiUFVCTElDX1BBVEgiLCJnZXQiLCJBUFBfRU5UUllfUE9JTlQiLCJ3ZWJwYWNrUHJvZE91dHB1dCIsInB1YmxpY1BhdGgiLCJmaWxlbmFtZSIsImNodW5rRmlsZW5hbWUiLCJvcHRpbWl6YXRpb25NaW5DaHVua3MiLCJtb2R1bGUiLCJjb3VudCIsInJlc291cmNlIiwidGVzdCIsImh0bWwiLCJodG1sUGx1Z2lucyIsIm1hcCIsInBhZ2UiLCJ0aXRsZSIsInRlbXBsYXRlIiwiZmF2aWNvbiIsImluamVjdCIsIm1pbmlmeSIsInJlbW92ZUNvbW1lbnRzIiwiY29sbGFwc2VXaGl0ZXNwYWNlIiwiY29uc2VydmF0aXZlQ29sbGFwc2UiLCJjaHJvbWVfc2NyZWVuc2hhcmluZ19leHRlbnNpb24iLCJvdXRwdXQiLCJPYmplY3QiLCJhc3NpZ24iLCJydWxlcyIsImNvbmNhdCIsInVzZSIsImV4dHJhY3QiLCJmYWxsYmFjayIsImxvYWRlciIsIm9wdGlvbnMiLCJzb3VyY2VNYXAiLCJpbXBvcnRMb2FkZXJzIiwibWluaW1pemUiLCJtb2R1bGVzIiwibG9jYWxJZGVudE5hbWUiLCJkZXZ0b29sIiwiZW50cnkiLCJhcHAiLCJyZXNvbHZlIiwiX19kaXJuYW1lIiwicGx1Z2lucyIsInB1c2giLCJEZWZpbmVQbHVnaW4iLCJfX0NPTkZJR19fIiwiSlNPTiIsInN0cmluZ2lmeSIsIk5PREVfRU5WIiwiTG9hZGVyT3B0aW9uc1BsdWdpbiIsImRlYnVnIiwiSWdub3JlUGx1Z2luIiwib3B0aW1pemUiLCJVZ2xpZnlKc1BsdWdpbiIsIkNvbW1vbnNDaHVua1BsdWdpbiIsIm5hbWUiLCJtaW5DaHVua3MiLCJwYXRoIiwiam9pbiIsInByZXR0eVByaW50IiwibWV0YWRhdGEiLCJ2ZXJzaW9uIiwicHJvY2VzcyIsImVudiIsIlBBQ0tBR0VfVkVSU0lPTiIsImRpc2FibGUiLCJhbGxDaHVua3MiXSwibWFwcGluZ3MiOiI7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QmdCLFdBQU87QUFGcUIsQ0FBaEMsQ0FQSjtBQVdJO0FBQ0E7QUFDQSxJQUFJLGtCQUFRQyxZQUFaLENBQXlCLE1BQXpCLENBYkosRUFjSSxJQUFJLGtCQUFRQyxRQUFSLENBQWlCQyxjQUFyQixDQUFvQztBQUNoQ3JCLGVBQVc7QUFEcUIsQ0FBcEMsQ0FkSixFQWlCSSxJQUFJLGtCQUFRb0IsUUFBUixDQUFpQkUsa0JBQXJCLENBQXdDO0FBQ3BDQyxVQUFNLFFBRDhCO0FBRXBDckQsY0FBVSx5QkFGMEI7QUFHcENzRCxlQUFXcEQ7QUFIeUIsQ0FBeEMsQ0FqQkosRUFzQkksa0NBQW1CO0FBQ2ZxRCxVQUFNLGVBQUtDLElBQUwsQ0FBVWpCLFNBQVYsRUFBcUIsTUFBckIsQ0FEUztBQUVmdkMsY0FBVSxhQUZLO0FBR2Z5RCxpQkFBYSxJQUhFO0FBSWZDLGNBQVU7QUFDTkMsaUJBQVNDLFFBQVFDLEdBQVIsQ0FBWUM7QUFEZjtBQUpLLENBQW5CLENBdEJKLEVBOEJJLHVDQUFzQjtBQUNsQjlELGNBQVUsMEJBRFE7QUFFbEIrRCxhQUFTLEtBRlM7QUFHbEJDLGVBQVc7QUFITyxDQUF0QixDQTlCSjs7QUFxQ0Esd0JBQWN4QixPQUFkLEdBQXdCLHdCQUFjQSxPQUFkLENBQXNCaEIsTUFBdEIsQ0FBNkJoQixXQUE3QixDQUF4QiIsImZpbGUiOiJ3ZWJwYWNrLmNvbmZpZy5wcm9kLmpzIiwic291cmNlUm9vdCI6Ii92YXIvbm9kZWpzL1R1dG9yaW5nV2ViU3lzdGVtLVdlYi9mcm9udGVuZCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBjb25maWcgZnJvbSAnY29uZmlnJztcbmltcG9ydCBwYXRoIGZyb20gJ3BhdGgnO1xuaW1wb3J0IHdlYnBhY2sgZnJvbSAnd2VicGFjayc7XG5pbXBvcnQgSHRtbFdlYnBhY2tQbHVnaW4gZnJvbSAnaHRtbC13ZWJwYWNrLXBsdWdpbic7XG5pbXBvcnQgU2F2ZUFzc2V0c0pzb24gZnJvbSAnYXNzZXRzLXdlYnBhY2stcGx1Z2luJztcbmltcG9ydCBFeHRyYWN0VGV4dFBsdWdpbiBmcm9tICdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nO1xuXG5pbXBvcnQgd2VicGFja0NvbmZpZywge0pTX1NPVVJDRX0gZnJvbSAnLi93ZWJwYWNrLmNvbmZpZy5jb21tb24nO1xuXG4vLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXG4vLyAgQ09OU1RBTlQgREVDTEFSQVRJT05cbi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cblxuY29uc3QgUFVCTElDX1BBVEggPSBjb25maWcuZ2V0KCdwdWJsaWNQYXRoJyk7XG5jb25zdCBBUFBfRU5UUllfUE9JTlQgPSBgJHtKU19TT1VSQ0V9L3JvdXRlcmA7XG5cbmNvbnN0IHdlYnBhY2tQcm9kT3V0cHV0ID0ge1xuICAgIHB1YmxpY1BhdGg6IFBVQkxJQ19QQVRILFxuICAgIGZpbGVuYW1lOiAnYXNzZXRzL1tuYW1lXS1baGFzaF0uanMnLFxuICAgIGNodW5rRmlsZW5hbWU6ICdhc3NldHMvW2lkXS5baGFzaF0uanMnLFxufTtcblxuLy8gVGhpcyBzZWN0aW9uIGlzIGZvciBjb21tb24gY2h1bmsgYmVoYXZpb3Jcbi8vIGRvIHdlIG5lZWQgdG8gZXhjbHVkZSBjc3MgZnJvbSB0aGlzIHJ1bGVcbmNvbnN0IG9wdGltaXphdGlvbk1pbkNodW5rcyA9IGNvbmZpZy5nZXQoJ29wdGltaXphdGlvbi5jc3NFeGNsdXNpb24nKSA/XG4gICAgZnVuY3Rpb24gKG1vZHVsZSwgY291bnQpIHtcbiAgICAgICAgcmV0dXJuIG1vZHVsZS5yZXNvdXJjZSAmJlxuICAgICAgICAgICAgISgvXFwuY3NzLykudGVzdChtb2R1bGUucmVzb3VyY2UpICYmXG4gICAgICAgICAgICBjb3VudCA+PSBjb25maWcuZ2V0KCdvcHRpbWl6YXRpb24uY29tbW9uTWluQ291bnQnKTtcbiAgICB9XG4gICAgOlxuICAgIGNvbmZpZy5nZXQoJ29wdGltaXphdGlvbi5jb21tb25NaW5Db3VudCcpO1xuXG5jb25zdCBodG1sID0gY29uZmlnLmdldCgnaHRtbCcpO1xuXG4vLyBQbGVhc2UgY29uZmlndXJlIHRoaXMgc2VjdGlvbiBpZiB5b3UgcGxhblxuLy8gdG8gZGVwbG95IHRoZSBnZW5lcmF0ZWQgaHRtbCB0byBwcm9kdWN0aW9uLlxuLy8gSSBkb24ndCBtaW5kIHlvdSBuYW1lIHlvdXIgcGFnZSBhcyBSZXRyb1xuLy8gaWYgeW91IHdhbnQgdG8gLi4uXG5jb25zdCBodG1sUGx1Z2lucyA9IGh0bWwubWFwKChwYWdlKSA9PlxuICAgIG5ldyBIdG1sV2VicGFja1BsdWdpbih7XG4gICAgICAgIHRpdGxlOiBwYWdlLnRpdGxlLFxuICAgICAgICB0ZW1wbGF0ZTogYHNyYy9hc3NldHMvdGVtcGxhdGUvJHtwYWdlLnRlbXBsYXRlfWAsXG4gICAgICAgIGZhdmljb246IGBzcmMvYXNzZXRzLyR7cGFnZS5mYXZpY29ufWAsXG4gICAgICAgIGluamVjdDogcGFnZS5pbmplY3QsXG4gICAgICAgIGZpbGVuYW1lOiBwYWdlLmZpbGVuYW1lLFxuICAgICAgICBtaW5pZnk6IHtcbiAgICAgICAgICAgIHJlbW92ZUNvbW1lbnRzOiB0cnVlLFxuICAgICAgICAgICAgY29sbGFwc2VXaGl0ZXNwYWNlOiB0cnVlLFxuICAgICAgICAgICAgY29uc2VydmF0aXZlQ29sbGFwc2U6IHRydWUsXG4gICAgICAgIH0sXG4gICAgICAgIGNocm9tZV9zY3JlZW5zaGFyaW5nX2V4dGVuc2lvbjogY29uZmlnLmdldCgnYXBwLmNocm9tZV9zY3JlZW5zaGFyaW5nX2V4dGVuc2lvbicpLFxuICAgIH0pLFxuKTtcblxuLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxuLy8gIEV4dGVuZGluZyBXZWJwYWNrIENvbmZpZ3VyYXRpb25cbi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cblxuLy8gTWVyZ2VzIHdlYnBhY2tQcm9kT3V0cHV0IGFuZCB3ZWJwYWNrQ29uZmlnLm91dHB1dFxud2VicGFja0NvbmZpZy5vdXRwdXQgPSBPYmplY3QuYXNzaWduKHdlYnBhY2tDb25maWcub3V0cHV0LCB3ZWJwYWNrUHJvZE91dHB1dCk7XG5cbndlYnBhY2tDb25maWcubW9kdWxlLnJ1bGVzID0gd2VicGFja0NvbmZpZy5tb2R1bGUucnVsZXMuY29uY2F0KHtcbiAgICB0ZXN0OiAvXFwuc2NzcyQvLFxuICAgIHVzZTogRXh0cmFjdFRleHRQbHVnaW4uZXh0cmFjdCh7XG4gICAgICAgIGZhbGxiYWNrOiAnc3R5bGUtbG9hZGVyJyxcbiAgICAgICAgdXNlOiBbXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAnY3NzLWxvYWRlcicsXG4gICAgICAgICAgICAgICAgb3B0aW9uczoge1xuICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXA6IHRydWUsXG4gICAgICAgICAgICAgICAgICAgIGltcG9ydExvYWRlcnM6IDIsXG4gICAgICAgICAgICAgICAgICAgIG1pbmltaXplOiB0cnVlLFxuICAgICAgICAgICAgICAgICAgICBtb2R1bGVzOiB0cnVlLFxuICAgICAgICAgICAgICAgICAgICBsb2NhbElkZW50TmFtZTogJ1tuYW1lXV9fW2xvY2FsXS0tW2hhc2g6YmFzZTY0OjVdJyxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIHtcbiAgICAgICAgICAgICAgICBsb2FkZXI6ICdwb3N0Y3NzLWxvYWRlcicsXG4gICAgICAgICAgICB9LFxuICAgICAgICAgICAge1xuICAgICAgICAgICAgICAgIGxvYWRlcjogJ3Nhc3MtbG9hZGVyJyxcbiAgICAgICAgICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICAgICAgICAgIHNvdXJjZU1hcDogdHJ1ZSxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgXSxcbiAgICB9KSxcbn0pO1xuXG53ZWJwYWNrQ29uZmlnLmRldnRvb2wgPSAnc291cmNlLW1hcCc7XG5cbndlYnBhY2tDb25maWcuZW50cnkgPSB7XG4gICAgYXBwOiBbJ2JhYmVsLXBvbHlmaWxsJywgcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgQVBQX0VOVFJZX1BPSU5UKV0sXG59O1xuXG53ZWJwYWNrQ29uZmlnLm91dHB1dC5wdWJsaWNQYXRoID0gJy8nO1xuXG53ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChcbiAgICBuZXcgd2VicGFjay5EZWZpbmVQbHVnaW4oe1xuICAgICAgICBfX0NPTkZJR19fOiBKU09OLnN0cmluZ2lmeShjb25maWcuZ2V0KCdhcHAnKSksXG4gICAgICAgICdwcm9jZXNzLmVudic6IHtcbiAgICAgICAgICAgIE5PREVfRU5WOiBKU09OLnN0cmluZ2lmeSgncHJvZHVjdGlvbicpLFxuICAgICAgICB9LFxuICAgIH0pLFxuICAgIG5ldyB3ZWJwYWNrLkxvYWRlck9wdGlvbnNQbHVnaW4oe1xuICAgICAgICBtaW5pbWl6ZTogdHJ1ZSxcbiAgICAgICAgZGVidWc6IGZhbHNlLFxuICAgIH0pLFxuICAgIC8vIGhvdyB5b3Ugd2FudCB5b3VyIGNvZGUgdG8gYmUgb3B0aW1pemVkXG4gICAgLy8gYWxsIGNvbmZpZ3VyYWJsZVxuICAgIG5ldyB3ZWJwYWNrLklnbm9yZVBsdWdpbigvdW5+JC8pLFxuICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLlVnbGlmeUpzUGx1Z2luKHtcbiAgICAgICAgc291cmNlTWFwOiB0cnVlLFxuICAgIH0pLFxuICAgIG5ldyB3ZWJwYWNrLm9wdGltaXplLkNvbW1vbnNDaHVua1BsdWdpbih7XG4gICAgICAgIG5hbWU6ICdjb21tb24nLFxuICAgICAgICBmaWxlbmFtZTogJ2Fzc2V0cy9jb21tb24tW2hhc2hdLmpzJyxcbiAgICAgICAgbWluQ2h1bmtzOiBvcHRpbWl6YXRpb25NaW5DaHVua3MsXG4gICAgfSksXG4gICAgbmV3IFNhdmVBc3NldHNKc29uKHtcbiAgICAgICAgcGF0aDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2Rpc3QnKSxcbiAgICAgICAgZmlsZW5hbWU6ICdhc3NldHMuanNvbicsXG4gICAgICAgIHByZXR0eVByaW50OiB0cnVlLFxuICAgICAgICBtZXRhZGF0YToge1xuICAgICAgICAgICAgdmVyc2lvbjogcHJvY2Vzcy5lbnYuUEFDS0FHRV9WRVJTSU9OLFxuICAgICAgICB9LFxuICAgIH0pLFxuICAgIG5ldyBFeHRyYWN0VGV4dFBsdWdpbih7XG4gICAgICAgIGZpbGVuYW1lOiAnYXNzZXRzL1tuYW1lXS1baGFzaF0uY3NzJyxcbiAgICAgICAgZGlzYWJsZTogZmFsc2UsXG4gICAgICAgIGFsbENodW5rczogdHJ1ZSxcbiAgICB9KSxcbik7XG5cbndlYnBhY2tDb25maWcucGx1Z2lucyA9IHdlYnBhY2tDb25maWcucGx1Z2lucy5jb25jYXQoaHRtbFBsdWdpbnMpO1xuXG5leHBvcnQgZGVmYXVsdCB3ZWJwYWNrQ29uZmlnO1xuIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "webpack.config.prod.js"
+      ],
+      "names": [
+        "PUBLIC_PATH",
+        "get",
+        "APP_ENTRY_POINT",
+        "webpackProdOutput",
+        "publicPath",
+        "filename",
+        "chunkFilename",
+        "optimizationMinChunks",
+        "module",
+        "count",
+        "resource",
+        "test",
+        "html",
+        "htmlPlugins",
+        "map",
+        "page",
+        "title",
+        "template",
+        "favicon",
+        "inject",
+        "minify",
+        "removeComments",
+        "collapseWhitespace",
+        "conservativeCollapse",
+        "chrome_screensharing_extension",
+        "output",
+        "Object",
+        "assign",
+        "rules",
+        "concat",
+        "use",
+        "extract",
+        "fallback",
+        "loader",
+        "options",
+        "sourceMap",
+        "importLoaders",
+        "minimize",
+        "modules",
+        "localIdentName",
+        "devtool",
+        "entry",
+        "app",
+        "resolve",
+        "__dirname",
+        "plugins",
+        "push",
+        "DefinePlugin",
+        "__CONFIG__",
+        "JSON",
+        "stringify",
+        "NODE_ENV",
+        "LoaderOptionsPlugin",
+        "debug",
+        "IgnorePlugin",
+        "optimize",
+        "UglifyJsPlugin",
+        "CommonsChunkPlugin",
+        "name",
+        "minChunks",
+        "path",
+        "join",
+        "prettyPrint",
+        "metadata",
+        "version",
+        "process",
+        "env",
+        "PACKAGE_VERSION",
+        "disable",
+        "allChunks"
+      ],
+      "mappings": "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",
+      "file": "webpack.config.prod.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "sourcesContent": [
+        "import config from 'config';\nimport path from 'path';\nimport webpack from 'webpack';\nimport HtmlWebpackPlugin from 'html-webpack-plugin';\nimport SaveAssetsJson from 'assets-webpack-plugin';\nimport ExtractTextPlugin from 'extract-text-webpack-plugin';\n\nimport webpackConfig, {JS_SOURCE} from './webpack.config.common';\n\n// ----------------------------------------------------------\n//  CONSTANT DECLARATION\n// ----------------------------------------------------------\n\nconst PUBLIC_PATH = config.get('publicPath');\nconst APP_ENTRY_POINT = `${JS_SOURCE}/router`;\n\nconst webpackProdOutput = {\n    publicPath: PUBLIC_PATH,\n    filename: 'assets/[name]-[hash].js',\n    chunkFilename: 'assets/[id].[hash].js',\n};\n\n// This section is for common chunk behavior\n// do we need to exclude css from this rule\nconst optimizationMinChunks = config.get('optimization.cssExclusion') ?\n    function (module, count) {\n        return module.resource &&\n            !(/\\.css/).test(module.resource) &&\n            count >= config.get('optimization.commonMinCount');\n    }\n    :\n    config.get('optimization.commonMinCount');\n\nconst html = config.get('html');\n\n// Please configure this section if you plan\n// to deploy the generated html to production.\n// I don't mind you name your page as Retro\n// if you want to ...\nconst htmlPlugins = html.map((page) =>\n    new HtmlWebpackPlugin({\n        title: page.title,\n        template: `src/assets/template/${page.template}`,\n        favicon: `src/assets/${page.favicon}`,\n        inject: page.inject,\n        filename: page.filename,\n        minify: {\n            removeComments: true,\n            collapseWhitespace: true,\n            conservativeCollapse: true,\n        },\n        chrome_screensharing_extension: config.get('app.chrome_screensharing_extension'),\n    }),\n);\n\n// ----------------------------------------------------------\n//  Extending Webpack Configuration\n// ----------------------------------------------------------\n\n// Merges webpackProdOutput and webpackConfig.output\nwebpackConfig.output = Object.assign(webpackConfig.output, webpackProdOutput);\n\nwebpackConfig.module.rules = webpackConfig.module.rules.concat({\n    test: /\\.scss$/,\n    use: ExtractTextPlugin.extract({\n        fallback: 'style-loader',\n        use: [\n            {\n                loader: 'css-loader',\n                options: {\n                    sourceMap: true,\n                    importLoaders: 2,\n                    minimize: true,\n                    modules: true,\n                    localIdentName: '[name]__[local]--[hash:base64:5]',\n                },\n            },\n            {\n                loader: 'postcss-loader',\n            },\n            {\n                loader: 'sass-loader',\n                options: {\n                    sourceMap: true,\n                },\n            },\n        ],\n    }),\n});\n\nwebpackConfig.devtool = 'source-map';\n\nwebpackConfig.entry = {\n    app: ['babel-polyfill', path.resolve(__dirname, APP_ENTRY_POINT)],\n};\n\nwebpackConfig.output.publicPath = '/';\n\nwebpackConfig.plugins.push(\n    new webpack.DefinePlugin({\n        __CONFIG__: JSON.stringify(config.get('app')),\n        'process.env': {\n            NODE_ENV: JSON.stringify('production'),\n        },\n    }),\n    new webpack.LoaderOptionsPlugin({\n        minimize: true,\n        debug: false,\n    }),\n    // how you want your code to be optimized\n    // all configurable\n    new webpack.IgnorePlugin(/un~$/),\n    new webpack.optimize.UglifyJsPlugin({\n        sourceMap: true,\n    }),\n    new webpack.optimize.CommonsChunkPlugin({\n        name: 'common',\n        filename: 'assets/common-[hash].js',\n        minChunks: optimizationMinChunks,\n    }),\n    new SaveAssetsJson({\n        path: path.join(__dirname, 'dist'),\n        filename: 'assets.json',\n        prettyPrint: true,\n        metadata: {\n            version: process.env.PACKAGE_VERSION,\n        },\n    }),\n    new ExtractTextPlugin({\n        filename: 'assets/[name]-[hash].css',\n        disable: false,\n        allChunks: true,\n    }),\n);\n\nwebpackConfig.plugins = webpackConfig.plugins.concat(htmlPlugins);\n\nexport default webpackConfig;\n"
+      ]
+    },
+    "mtime": 1521817712333
+  },
+  "{\"filename\":\"/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.common.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],{\"disable\":{\"production\":true}}],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}],[[],{\"spec\":false,\"loose\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/var/nodejs/TutoringWebSystem-Web/frontend\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0:production": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "path",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "path"
+              }
+            ]
+          },
+          {
+            "source": "webpack",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "webpack"
+              }
+            ]
+          },
+          {
+            "source": "extract-text-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "ExtractTextPlugin"
+              }
+            ]
+          },
+          {
+            "source": "case-sensitive-paths-webpack-plugin",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "CaseSensitivePathsPlugin"
+              }
+            ]
+          },
+          {
+            "source": "config",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "config"
+              }
+            ]
+          },
+          {
+            "source": "fs",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "fs"
+              }
+            ]
+          },
+          {
+            "source": "./bin/shouldBuild",
+            "imported": [
+              "SHOULD_BUILD"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "SHOULD_BUILD",
+                "local": "SHOULD_BUILD"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [
+            "JS_SOURCE"
+          ],
+          "specifiers": [
+            {
+              "kind": "local",
+              "local": "JS_SOURCE",
+              "exported": "JS_SOURCE"
+            }
+          ]
+        }
+      }
+    },
+    "options": {
+      "filename": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.common.js",
+      "filenameRelative": "/var/nodejs/TutoringWebSystem-Web/frontend/webpack.config.common.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          {
+            "disable": {
+              "production": true
+            }
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "spec": false,
+            "loose": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "webpack.config.common.js",
+      "sourceFileName": "webpack.config.common.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "webpack.config.common"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\nexports.JS_SOURCE = undefined;\n\nvar _path = require('path');\n\nvar _path2 = _interopRequireDefault(_path);\n\nvar _webpack = require('webpack');\n\nvar _webpack2 = _interopRequireDefault(_webpack);\n\nvar _extractTextWebpackPlugin = require('extract-text-webpack-plugin');\n\nvar _extractTextWebpackPlugin2 = _interopRequireDefault(_extractTextWebpackPlugin);\n\nvar _caseSensitivePathsWebpackPlugin = require('case-sensitive-paths-webpack-plugin');\n\nvar _caseSensitivePathsWebpackPlugin2 = _interopRequireDefault(_caseSensitivePathsWebpackPlugin);\n\nvar _config = require('config');\n\nvar _config2 = _interopRequireDefault(_config);\n\nvar _fs = require('fs');\n\nvar _fs2 = _interopRequireDefault(_fs);\n\nvar _shouldBuild = require('./bin/shouldBuild');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// trace which loader is deprecated\n// feel free to remove that if you don't need this feature\nprocess.traceDeprecation = false;\n\n// Please read the following link if\n// you have no idea how to use this feature\n// https://github.com/motdotla/dotenv\n// Requiring dependencies\n// ================================================================================\nif (!_shouldBuild.SHOULD_BUILD) {\n    require('dotenv').config({ silent: true });\n}\n\n// Environment variable injection\n// ================================================================================\nvar version = JSON.parse(_fs2.default.readFileSync('package.json', 'utf8')).version;\nprocess.env.PACKAGE_VERSION = version;\n\n// Defining config variables\n// ================================================================================\nvar BUILD_PATH = _path2.default.join(__dirname, 'dist');\n\nvar COMMON_LOADERS = [{\n    test: /\\.(?:ico|gif|png|jpg|jpeg|webp|svg)$/i,\n    use: [{\n        loader: 'file-loader',\n        options: {\n            hash: 'sha512',\n            digest: 'hex',\n            name: 'assets/[hash].[ext]'\n        }\n    }, {\n        loader: 'image-webpack-loader',\n        options: {\n            query: {\n                mozjpeg: {\n                    progressive: true\n                },\n                gifsicle: {\n                    interlaced: true\n                },\n                optipng: {\n                    optimizationLevel: 7\n                },\n                pngquant: {\n                    quality: '65-90',\n                    speed: 4\n                }\n            }\n        }\n    }]\n}, {\n    test: /\\.(js|jsx)?$/,\n    exclude: /node_modules/,\n    loader: 'babel-loader',\n    options: {\n        cacheDirectory: true,\n        plugins: ['transform-runtime', 'transform-decorators-legacy']\n    }\n}, {\n    test: /\\.woff(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/font-woff'\n        }\n    }]\n}, {\n    test: /\\.woff2(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/font-woff'\n        }\n    }]\n}, {\n    test: /\\.[ot]tf(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/octet-stream'\n        }\n    }]\n}, {\n    test: /\\.eot(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n    use: [{\n        loader: 'url-loader',\n        options: {\n            limit: 10000,\n            mimetype: 'application/vnd.ms-fontobject'\n        }\n    }]\n}, {\n    test: /\\.(ogg|mp3|wav|mpe?g)$/i,\n    use: 'file-loader'\n}];\n\n// Export\n// ===============================================================================\nvar JS_SOURCE = exports.JS_SOURCE = _config2.default.get('jsSourcePath');\n\nexports.default = {\n    output: {\n        path: BUILD_PATH\n    },\n    resolve: {\n        extensions: ['.js', '.jsx', '.css', '.scss'],\n        modules: [_path2.default.join(__dirname, 'src'), _path2.default.join(__dirname, 'assets'), _path2.default.join(__dirname, JS_SOURCE), 'node_modules']\n    },\n    plugins: [new _webpack2.default.IgnorePlugin(/vertx/), // https://github.com/webpack/webpack/issues/353\n    new _caseSensitivePathsWebpackPlugin2.default()],\n    module: {\n        rules: COMMON_LOADERS\n    },\n    node: {\n        console: true,\n        fs: 'empty',\n        net: 'empty',\n        tls: 'empty'\n    },\n    externals: {\n        console: true,\n        fs: '{}',\n        tls: '{}',\n        net: '{}'\n    }\n};\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2suY29uZmlnLmNvbW1vbi5qcyJdLCJuYW1lcyI6WyJwcm9jZXNzIiwidHJhY2VEZXByZWNhdGlvbiIsInJlcXVpcmUiLCJjb25maWciLCJzaWxlbnQiLCJ2ZXJzaW9uIiwiSlNPTiIsInBhcnNlIiwicmVhZEZpbGVTeW5jIiwiZW52IiwiUEFDS0FHRV9WRVJTSU9OIiwiQlVJTERfUEFUSCIsImpvaW4iLCJfX2Rpcm5hbWUiLCJDT01NT05fTE9BREVSUyIsInRlc3QiLCJ1c2UiLCJsb2FkZXIiLCJvcHRpb25zIiwiaGFzaCIsImRpZ2VzdCIsIm5hbWUiLCJxdWVyeSIsIm1vempwZWciLCJwcm9ncmVzc2l2ZSIsImdpZnNpY2xlIiwiaW50ZXJsYWNlZCIsIm9wdGlwbmciLCJvcHRpbWl6YXRpb25MZXZlbCIsInBuZ3F1YW50IiwicXVhbGl0eSIsInNwZWVkIiwiZXhjbHVkZSIsImNhY2hlRGlyZWN0b3J5IiwicGx1Z2lucyIsImxpbWl0IiwibWltZXR5cGUiLCJKU19TT1VSQ0UiLCJnZXQiLCJvdXRwdXQiLCJwYXRoIiwicmVzb2x2ZSIsImV4dGVuc2lvbnMiLCJtb2R1bGVzIiwiSWdub3JlUGx1Z2luIiwibW9kdWxlIiwicnVsZXMiLCJub2RlIiwiY29uc29sZSIsImZzIiwibmV0IiwidGxzIiwiZXh0ZXJuYWxzIl0sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBRUE7Ozs7QUFDQTs7OztBQUNBOzs7O0FBQ0E7Ozs7QUFDQTs7OztBQUNBOzs7O0FBRUE7Ozs7QUFFQTtBQUNBO0FBQ0FBLFFBQVFDLGdCQUFSLEdBQTJCLEtBQTNCOztBQUVBO0FBQ0E7QUFDQTtBQWpCQTtBQUNBO0FBaUJBLElBQUksMEJBQUosRUFBbUI7QUFDZkMsWUFBUSxRQUFSLEVBQWtCQyxNQUFsQixDQUF5QixFQUFFQyxRQUFRLElBQVYsRUFBekI7QUFDSDs7QUFFRDtBQUNBO0FBQ0EsSUFBTUMsVUFBVUMsS0FBS0MsS0FBTCxDQUFXLGFBQUdDLFlBQUgsQ0FBZ0IsY0FBaEIsRUFB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SyxJQUhFO0FBSVBELGFBQUs7QUFKRTtBQTFCQSxDIiwiZmlsZSI6IndlYnBhY2suY29uZmlnLmNvbW1vbi5qcyIsInNvdXJjZVJvb3QiOiIvdmFyL25vZGVqcy9UdXRvcmluZ1dlYlN5c3RlbS1XZWIvZnJvbnRlbmQiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBSZXF1aXJpbmcgZGVwZW5kZW5jaWVzXG4vLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVxuaW1wb3J0IHBhdGggZnJvbSAncGF0aCc7XG5pbXBvcnQgd2VicGFjayBmcm9tICd3ZWJwYWNrJztcbmltcG9ydCBFeHRyYWN0VGV4dFBsdWdpbiBmcm9tICdleHRyYWN0LXRleHQtd2VicGFjay1wbHVnaW4nO1xuaW1wb3J0IENhc2VTZW5zaXRpdmVQYXRoc1BsdWdpbiBmcm9tICdjYXNlLXNlbnNpdGl2ZS1wYXRocy13ZWJwYWNrLXBsdWdpbic7XG5pbXBvcnQgY29uZmlnIGZyb20gJ2NvbmZpZyc7XG5pbXBvcnQgZnMgZnJvbSAnZnMnO1xuXG5pbXBvcnQgeyBTSE9VTERfQlVJTEQgfSBmcm9tICcuL2Jpbi9zaG91bGRCdWlsZCc7XG5cbi8vIHRyYWNlIHdoaWNoIGxvYWRlciBpcyBkZXByZWNhdGVkXG4vLyBmZWVsIGZyZWUgdG8gcmVtb3ZlIHRoYXQgaWYgeW91IGRvbid0IG5lZWQgdGhpcyBmZWF0dXJlXG5wcm9jZXNzLnRyYWNlRGVwcmVjYXRpb24gPSBmYWxzZTtcblxuLy8gUGxlYXNlIHJlYWQgdGhlIGZvbGxvd2luZyBsaW5rIGlmXG4vLyB5b3UgaGF2ZSBubyBpZGVhIGhvdyB0byB1c2UgdGhpcyBmZWF0dXJlXG4vLyBodHRwczovL2dpdGh1Yi5jb20vbW90ZG90bGEvZG90ZW52XG5pZiAoIVNIT1VMRF9CVUlMRCkge1xuICAgIHJlcXVpcmUoJ2RvdGVudicpLmNvbmZpZyh7IHNpbGVudDogdHJ1ZSB9KTtcbn1cblxuLy8gRW52aXJvbm1lbnQgdmFyaWFibGUgaW5qZWN0aW9uXG4vLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVxuY29uc3QgdmVyc2lvbiA9IEpTT04ucGFyc2UoZnMucmVhZEZpbGVTeW5jKCdwYWNrYWdlLmpzb24nLCAndXRmOCcpKS52ZXJzaW9uO1xucHJvY2Vzcy5lbnYuUEFDS0FHRV9WRVJTSU9OID0gdmVyc2lvbjtcblxuLy8gRGVmaW5pbmcgY29uZmlnIHZhcmlhYmxlc1xuLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1cbmNvbnN0IEJVSUxEX1BBVEggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnZGlzdCcpO1xuXG5jb25zdCBDT01NT05fTE9BREVSUyA9IFtcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC4oPzppY298Z2lmfHBuZ3xqcGd8anBlZ3x3ZWJwfHN2ZykkL2ksXG4gICAgICAgIHVzZTogW1xuICAgICAgICAgICAge1xuICAgICAgICAgICAgICAgIGxvYWRlcjogJ2ZpbGUtbG9hZGVyJyxcbiAgICAgICAgICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICAgICAgICAgIGhhc2g6ICdzaGE1MTInLFxuICAgICAgICAgICAgICAgICAgICBkaWdlc3Q6ICdoZXgnLFxuICAgICAgICAgICAgICAgICAgICBuYW1lOiAnYXNzZXRzL1toYXNoXS5bZXh0XScsXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAnaW1hZ2Utd2VicGFjay1sb2FkZXInLFxuICAgICAgICAgICAgICAgIG9wdGlvbnM6IHtcbiAgICAgICAgICAgICAgICAgICAgcXVlcnk6IHtcbiAgICAgICAgICAgICAgICAgICAgICAgIG1vempwZWc6IHtcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9ncmVzc2l2ZTogdHJ1ZSxcbiAgICAgICAgICAgICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgICAgICAgICAgICBnaWZzaWNsZToge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVybGFjZWQ6IHRydWUsXG4gICAgICAgICAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgICAgICAgICAgICAgb3B0aXBuZzoge1xuICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGltaXphdGlvbkxldmVsOiA3LFxuICAgICAgICAgICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgICAgICAgICAgICAgIHBuZ3F1YW50OiB7XG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgcXVhbGl0eTogJzY1LTkwJyxcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcGVlZDogNCxcbiAgICAgICAgICAgICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgICAgICAgIH0sXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgIF0sXG4gICAgfSwge1xuICAgICAgICB0ZXN0OiAvXFwuKGpzfGpzeCk/JC8sXG4gICAgICAgIGV4Y2x1ZGU6IC9ub2RlX21vZHVsZXMvLFxuICAgICAgICBsb2FkZXI6ICdiYWJlbC1sb2FkZXInLFxuICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICBjYWNoZURpcmVjdG9yeTogdHJ1ZSxcbiAgICAgICAgICAgIHBsdWdpbnM6IFsndHJhbnNmb3JtLXJ1bnRpbWUnLCAndHJhbnNmb3JtLWRlY29yYXRvcnMtbGVnYWN5J10sXG4gICAgICAgIH0sXG4gICAgfSxcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC53b2ZmKFxcP3Y9XFxkK1xcLlxcZCtcXC5cXGQrKT8kLyxcbiAgICAgICAgdXNlOiBbXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsXG4gICAgICAgICAgICAgICAgb3B0aW9uczoge1xuICAgICAgICAgICAgICAgICAgICBsaW1pdDogMTAwMDAsXG4gICAgICAgICAgICAgICAgICAgIG1pbWV0eXBlOiAnYXBwbGljYXRpb24vZm9udC13b2ZmJyxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgXSxcbiAgICB9LFxuICAgIHtcbiAgICAgICAgdGVzdDogL1xcLndvZmYyKFxcP3Y9XFxkK1xcLlxcZCtcXC5cXGQrKT8kLyxcbiAgICAgICAgdXNlOiBbXG4gICAgICAgICAgICB7XG4gICAgICAgICAgICAgICAgbG9hZGVyOiAndXJsLWxvYWRlcicsXG4gICAgICAgICAgICAgICAgb3B0aW9uczoge1xuICAgICAgICAgICAgICAgICAgICBsaW1pdDogMTAwMDAsXG4gICAgICAgICAgICAgICAgICAgIG1pbWV0eXBlOiAnYXBwbGljYXRpb24vZm9udC13b2ZmJyxcbiAgICAgICAgICAgICAgICB9LFxuICAgICAgICAgICAgfSxcbiAgICAgICAgXSxcbiAgICB9LFxuICAgIHtcbiAgICAgICAgdGVzdDogL1xcLltvdF10ZihcXD92PVxcZCtcXC5cXGQrXFwuXFxkKyk/JC8sXG4gICAgICAgIHVzZTogW1xuICAgICAgICAgICAge1xuICAgICAgICAgICAgICAgIGxvYWRlcjogJ3VybC1sb2FkZXInLFxuICAgICAgICAgICAgICAgIG9wdGlvbnM6IHtcbiAgICAgICAgICAgICAgICAgICAgbGltaXQ6IDEwMDAwLFxuICAgICAgICAgICAgICAgICAgICBtaW1ldHlwZTogJ2FwcGxpY2F0aW9uL29jdGV0LXN0cmVhbScsXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgIF0sXG4gICAgfSxcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC5lb3QoXFw/dj1cXGQrXFwuXFxkK1xcLlxcZCspPyQvLFxuICAgICAgICB1c2U6IFtcbiAgICAgICAgICAgIHtcbiAgICAgICAgICAgICAgICBsb2FkZXI6ICd1cmwtbG9hZGVyJyxcbiAgICAgICAgICAgICAgICBvcHRpb25zOiB7XG4gICAgICAgICAgICAgICAgICAgIGxpbWl0OiAxMDAwMCxcbiAgICAgICAgICAgICAgICAgICAgbWltZXR5cGU6ICdhcHBsaWNhdGlvbi92bmQubXMtZm9udG9iamVjdCcsXG4gICAgICAgICAgICAgICAgfSxcbiAgICAgICAgICAgIH0sXG4gICAgICAgIF0sXG4gICAgfSxcbiAgICB7XG4gICAgICAgIHRlc3Q6IC9cXC4ob2dnfG1wM3x3YXZ8bXBlP2cpJC9pLFxuICAgICAgICB1c2U6ICdmaWxlLWxvYWRlcicsXG4gICAgfSxcbl07XG5cbi8vIEV4cG9ydFxuLy8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVxuZXhwb3J0IGNvbnN0IEpTX1NPVVJDRSA9IGNvbmZpZy5nZXQoJ2pzU291cmNlUGF0aCcpO1xuXG5leHBvcnQgZGVmYXVsdCB7XG4gICAgb3V0cHV0OiB7XG4gICAgICAgIHBhdGg6IEJVSUxEX1BBVEgsXG4gICAgfSxcbiAgICByZXNvbHZlOiB7XG4gICAgICAgIGV4dGVuc2lvbnM6IFsnLmpzJywgJy5qc3gnLCAnLmNzcycsICcuc2NzcyddLFxuICAgICAgICBtb2R1bGVzOiBbXG4gICAgICAgICAgICBwYXRoLmpvaW4oX19kaXJuYW1lLCAnc3JjJyksXG4gICAgICAgICAgICBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXNzZXRzJyksXG4gICAgICAgICAgICBwYXRoLmpvaW4oX19kaXJuYW1lLCBKU19TT1VSQ0UpLFxuICAgICAgICAgICAgJ25vZGVfbW9kdWxlcycsXG4gICAgICAgIF0sXG4gICAgfSxcbiAgICBwbHVnaW5zOiBbXG4gICAgICAgIG5ldyB3ZWJwYWNrLklnbm9yZVBsdWdpbigvdmVydHgvKSwgLy8gaHR0cHM6Ly9naXRodWIuY29tL3dlYnBhY2svd2VicGFjay9pc3N1ZXMvMzUzXG4gICAgICAgIG5ldyBDYXNlU2Vuc2l0aXZlUGF0aHNQbHVnaW4oKSxcbiAgICBdLFxuICAgIG1vZHVsZToge1xuICAgICAgICBydWxlczogQ09NTU9OX0xPQURFUlMsXG4gICAgfSxcbiAgICBub2RlOiB7XG4gICAgICAgIGNvbnNvbGU6IHRydWUsXG4gICAgICAgIGZzOiAnZW1wdHknLFxuICAgICAgICBuZXQ6ICdlbXB0eScsXG4gICAgICAgIHRsczogJ2VtcHR5JyxcbiAgICB9LFxuICAgIGV4dGVybmFsczoge1xuICAgICAgICBjb25zb2xlOiB0cnVlLFxuICAgICAgICBmczogJ3t9JyxcbiAgICAgICAgdGxzOiAne30nLFxuICAgICAgICBuZXQ6ICd7fScsXG4gICAgfSxcbn07XG4iXX0=",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "webpack.config.common.js"
+      ],
+      "names": [
+        "process",
+        "traceDeprecation",
+        "require",
+        "config",
+        "silent",
+        "version",
+        "JSON",
+        "parse",
+        "readFileSync",
+        "env",
+        "PACKAGE_VERSION",
+        "BUILD_PATH",
+        "join",
+        "__dirname",
+        "COMMON_LOADERS",
+        "test",
+        "use",
+        "loader",
+        "options",
+        "hash",
+        "digest",
+        "name",
+        "query",
+        "mozjpeg",
+        "progressive",
+        "gifsicle",
+        "interlaced",
+        "optipng",
+        "optimizationLevel",
+        "pngquant",
+        "quality",
+        "speed",
+        "exclude",
+        "cacheDirectory",
+        "plugins",
+        "limit",
+        "mimetype",
+        "JS_SOURCE",
+        "get",
+        "output",
+        "path",
+        "resolve",
+        "extensions",
+        "modules",
+        "IgnorePlugin",
+        "module",
+        "rules",
+        "node",
+        "console",
+        "fs",
+        "net",
+        "tls",
+        "externals"
+      ],
+      "mappings": ";;;;;;;AAEA;;;;AACA;;;;AACA;;;;AACA;;;;AACA;;;;AACA;;;;AAEA;;;;AAEA;AACA;AACAA,QAAQC,gBAAR,GAA2B,KAA3B;;AAEA;AACA;AACA;AAjBA;AACA;AAiBA,IAAI,0BAAJ,EAAmB;AACfC,YAAQ,QAAR,EAAkBC,MAAlB,CAAyB,EAAEC,QAAQ,IAAV,EAAzB;AACH;;AAED;AACA;AACA,IAAMC,UAAUC,KAAKC,KAAL,CAAW,aAAGC,YAAH,CAAgB,cAAhB,EAAgC,MAAhC,CAAX,EAAoDH,OAApE;AACAL,QAAQS,GAAR,CAAYC,eAAZ,GAA8BL,OAA9B;;AAEA;AACA;AACA,IAAMM,aAAa,eAAKC,IAAL,CAAUC,SAAV,EAAqB,MAArB,CAAnB;;AAEA,IAAMC,iBAAiB,CACnB;AACIC,UAAM,uCADV;AAEIC,SAAK,CACD;AACIC,gBAAQ,aADZ;AAEIC,iBAAS;AACLC,kBAAM,QADD;AAELC,oBAAQ,KAFH;AAGLC,kBAAM;AAHD;AAFb,KADC,EASD;AACIJ,gBAAQ,sBADZ;AAEIC,iBAAS;AACLI,mBAAO;AACHC,yBAAS;AACLC,iCAAa;AADR,iBADN;AAIHC,0BAAU;AACNC,gCAAY;AADN,iBAJP;AAOHC,yBAAS;AACLC,uCAAmB;AADd,iBAPN;AAUHC,0BAAU;AACNC,6BAAS,OADH;AAENC,2BAAO;AAFD;AAVP;AADF;AAFb,KATC;AAFT,CADmB,EAiChB;AACChB,UAAM,cADP;AAECiB,aAAS,cAFV;AAGCf,YAAQ,cAHT;AAICC,aAAS;AACLe,wBAAgB,IADX;AAELC,iBAAS,CAAC,mBAAD,EAAsB,6BAAtB;AAFJ;AAJV,CAjCgB,EA0CnB;AACInB,UAAM,6BADV;AAEIC,SAAK,CACD;AACIC,gBAAQ,YADZ;AAEIC,iBAAS;AACLiB,mBAAO,KADF;AAELC,sBAAU;AAFL;AAFb,KADC;AAFT,CA1CmB,EAsDnB;AACIrB,UAAM,8BADV;AAEIC,SAAK,CACD;AACIC,gBAAQ,YADZ;AAEIC,iBAAS;AACLiB,mBAAO,KADF;AAELC,sBAAU;AAFL;AAFb,KADC;AAFT,CAtDmB,EAkEnB;AACIrB,UAAM,+BADV;AAEIC,SAAK,CACD;AACIC,gBAAQ,YADZ;AAEIC,iBAAS;AACLiB,mBAAO,KADF;AAELC,sBAAU;AAFL;AAFb,KADC;AAFT,CAlEmB,EA8EnB;AACIrB,UAAM,4BADV;AAEIC,SAAK,CACD;AACIC,gBAAQ,YADZ;AAEIC,iBAAS;AACLiB,mBAAO,KADF;AAELC,sBAAU;AAFL;AAFb,KADC;AAFT,CA9EmB,EA0FnB;AACIrB,UAAM,yBADV;AAEIC,SAAK;AAFT,CA1FmB,CAAvB;;AAgGA;AACA;AACO,IAAMqB,gCAAY,iBAAOC,GAAP,CAAW,cAAX,CAAlB;;kBAEQ;AACXC,YAAQ;AACJC,cAAM7B;AADF,KADG;AAIX8B,aAAS;AACLC,oBAAY,CAAC,KAAD,EAAQ,MAAR,EAAgB,MAAhB,EAAwB,OAAxB,CADP;AAELC,iBAAS,CACL,eAAK/B,IAAL,CAAUC,SAAV,EAAqB,KAArB,CADK,EAEL,eAAKD,IAAL,CAAUC,SAAV,EAAqB,QAArB,CAFK,EAGL,eAAKD,IAAL,CAAUC,SAAV,EAAqBwB,SAArB,CAHK,EAIL,cAJK;AAFJ,KAJE;AAaXH,aAAS,CACL,IAAI,kBAAQU,YAAZ,CAAyB,OAAzB,CADK,EAC8B;AACnC,mDAFK,CAbE;AAiBXC,YAAQ;AACJC,eAAOhC;AADH,KAjBG;AAoBXiC,UAAM;AACFC,iBAAS,IADP;AAEFC,YAAI,OAFF;AAGFC,aAAK,OAHH;AAIFC,aAAK;AAJH,KApBK;AA0BXC,eAAW;AACPJ,iBAAS,IADF;AAEPC,YAAI,IAFG;AAGPE,aAAK,IAHE;AAIPD,aAAK;AAJE;AA1BA,C",
+      "file": "webpack.config.common.js",
+      "sourceRoot": "/var/nodejs/TutoringWebSystem-Web/frontend",
+      "sourcesContent": [
+        "// Requiring dependencies\n// ================================================================================\nimport path from 'path';\nimport webpack from 'webpack';\nimport ExtractTextPlugin from 'extract-text-webpack-plugin';\nimport CaseSensitivePathsPlugin from 'case-sensitive-paths-webpack-plugin';\nimport config from 'config';\nimport fs from 'fs';\n\nimport { SHOULD_BUILD } from './bin/shouldBuild';\n\n// trace which loader is deprecated\n// feel free to remove that if you don't need this feature\nprocess.traceDeprecation = false;\n\n// Please read the following link if\n// you have no idea how to use this feature\n// https://github.com/motdotla/dotenv\nif (!SHOULD_BUILD) {\n    require('dotenv').config({ silent: true });\n}\n\n// Environment variable injection\n// ================================================================================\nconst version = JSON.parse(fs.readFileSync('package.json', 'utf8')).version;\nprocess.env.PACKAGE_VERSION = version;\n\n// Defining config variables\n// ================================================================================\nconst BUILD_PATH = path.join(__dirname, 'dist');\n\nconst COMMON_LOADERS = [\n    {\n        test: /\\.(?:ico|gif|png|jpg|jpeg|webp|svg)$/i,\n        use: [\n            {\n                loader: 'file-loader',\n                options: {\n                    hash: 'sha512',\n                    digest: 'hex',\n                    name: 'assets/[hash].[ext]',\n                },\n            },\n            {\n                loader: 'image-webpack-loader',\n                options: {\n                    query: {\n                        mozjpeg: {\n                            progressive: true,\n                        },\n                        gifsicle: {\n                            interlaced: true,\n                        },\n                        optipng: {\n                            optimizationLevel: 7,\n                        },\n                        pngquant: {\n                            quality: '65-90',\n                            speed: 4,\n                        },\n                    },\n                },\n            },\n        ],\n    }, {\n        test: /\\.(js|jsx)?$/,\n        exclude: /node_modules/,\n        loader: 'babel-loader',\n        options: {\n            cacheDirectory: true,\n            plugins: ['transform-runtime', 'transform-decorators-legacy'],\n        },\n    },\n    {\n        test: /\\.woff(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/font-woff',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.woff2(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/font-woff',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.[ot]tf(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/octet-stream',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.eot(\\?v=\\d+\\.\\d+\\.\\d+)?$/,\n        use: [\n            {\n                loader: 'url-loader',\n                options: {\n                    limit: 10000,\n                    mimetype: 'application/vnd.ms-fontobject',\n                },\n            },\n        ],\n    },\n    {\n        test: /\\.(ogg|mp3|wav|mpe?g)$/i,\n        use: 'file-loader',\n    },\n];\n\n// Export\n// ===============================================================================\nexport const JS_SOURCE = config.get('jsSourcePath');\n\nexport default {\n    output: {\n        path: BUILD_PATH,\n    },\n    resolve: {\n        extensions: ['.js', '.jsx', '.css', '.scss'],\n        modules: [\n            path.join(__dirname, 'src'),\n            path.join(__dirname, 'assets'),\n            path.join(__dirname, JS_SOURCE),\n            'node_modules',\n        ],\n    },\n    plugins: [\n        new webpack.IgnorePlugin(/vertx/), // https://github.com/webpack/webpack/issues/353\n        new CaseSensitivePathsPlugin(),\n    ],\n    module: {\n        rules: COMMON_LOADERS,\n    },\n    node: {\n        console: true,\n        fs: 'empty',\n        net: 'empty',\n        tls: 'empty',\n    },\n    externals: {\n        console: true,\n        fs: '{}',\n        tls: '{}',\n        net: '{}',\n    },\n};\n"
+      ]
+    },
+    "mtime": 1521616384302
+  }
+}

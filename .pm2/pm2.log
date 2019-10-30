@@ -1,0 +1,876 @@
+[2018-03-21 08:28:46] PM2 log: ===============================================================================
+[2018-03-21 08:28:46] PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+[2018-03-21 08:28:46] PM2 log: Time                 : Wed Mar 21 2018 08:28:46 GMT+0100 (CET)
+[2018-03-21 08:28:46] PM2 log: PM2 version          : 2.10.1
+[2018-03-21 08:28:46] PM2 log: Node.js version      : 8.9.4
+[2018-03-21 08:28:46] PM2 log: Current arch         : x64
+[2018-03-21 08:28:46] PM2 log: PM2 home             : /root/.pm2
+[2018-03-21 08:28:46] PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+[2018-03-21 08:28:46] PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+[2018-03-21 08:28:46] PM2 log: BUS socket file      : /root/.pm2/pub.sock
+[2018-03-21 08:28:46] PM2 log: Application log path : /root/.pm2/logs
+[2018-03-21 08:28:46] PM2 log: Process dump file    : /root/.pm2/dump.pm2
+[2018-03-21 08:28:46] PM2 log: Concurrent actions   : 2
+[2018-03-21 08:28:46] PM2 log: SIGTERM timeout      : 1600
+[2018-03-21 08:28:46] PM2 log: ===============================================================================
+[2018-03-21 08:29:30] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:30] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:30] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-03-21 08:29:31] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:31] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3564], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:31] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:31] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:32] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:32] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3595], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:32] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:32] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:33] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:33] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3621], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:33] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:33] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:34] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:34] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3648], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:34] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:34] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:35] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:35] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3674], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:35] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:35] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:36] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:36] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3700], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:36] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:36] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:37] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:37] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3726], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:37] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:37] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:38] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:38] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3752], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:38] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:38] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:39] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:39] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3778], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:39] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:39] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:40] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:40] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3804], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:40] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:40] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:41] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:41] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3830], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:41] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:41] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:42] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:42] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3866], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:42] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:42] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:44] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:44] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3892], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:44] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:44] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:45] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:45] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3918], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:45] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:45] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:46] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:46] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3944], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:46] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:46] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:47] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:47] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3970], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:47] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:47] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:48] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:48] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [4002], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:48] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:48] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:49] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:49] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [4044], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:49] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:29:49] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:29:49] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-03-21 08:29:49] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 08:29:49] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [4070], exited with code [0] via signal [SIGINT]
+[2018-03-21 08:29:49] PM2 log: pid=4070 msg=process killed
+[2018-03-21 08:30:33] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 08:30:33] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 08:30:33] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-03-21 09:25:25] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-03-21 09:25:25] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-21 09:25:25] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [4143], exited with code [0] via signal [SIGINT]
+[2018-03-21 09:25:25] PM2 log: pid=4143 msg=process killed
+[2018-03-21 09:25:25] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-21 09:25:25] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-21 09:25:25] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-03-23 12:53:20] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-03-23 12:53:20] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-23 12:53:20] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [6874], exited with code [0] via signal [SIGINT]
+[2018-03-23 12:53:20] PM2 log: pid=6874 msg=process killed
+[2018-03-23 12:53:20] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-23 12:53:20] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-23 12:53:20] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-03-23 16:05:05] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-03-23 16:05:05] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-23 16:05:05] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [24708], exited with code [0] via signal [SIGINT]
+[2018-03-23 16:05:05] PM2 log: pid=24708 msg=process killed
+[2018-03-23 16:05:05] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-23 16:05:05] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-23 16:05:05] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-03-28 16:38:37] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-03-28 16:38:37] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-03-28 16:38:37] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [32138], exited with code [0] via signal [SIGINT]
+[2018-03-28 16:38:37] PM2 log: pid=32138 msg=process killed
+[2018-03-28 16:38:37] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-03-28 16:38:37] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-03-28 16:38:37] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-02 13:45:42] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-02 13:45:42] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-02 13:45:42] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [8268], exited with code [0] via signal [SIGINT]
+[2018-04-02 13:45:42] PM2 log: pid=8268 msg=process killed
+[2018-04-02 13:45:42] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-02 13:45:42] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-02 13:45:42] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-09 12:29:04] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-09 12:29:04] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-09 12:29:04] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [25580], exited with code [0] via signal [SIGINT]
+[2018-04-09 12:29:04] PM2 log: pid=25580 msg=process killed
+[2018-04-09 12:29:04] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-09 12:29:04] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-09 12:29:04] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-12 11:58:22] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-12 11:58:22] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-12 11:58:22] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [22224], exited with code [0] via signal [SIGINT]
+[2018-04-12 11:58:22] PM2 log: pid=22224 msg=process killed
+[2018-04-12 11:58:22] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-12 11:58:22] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-12 11:58:22] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-12 16:22:41] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-12 16:22:41] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-12 16:22:41] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [30314], exited with code [0] via signal [SIGINT]
+[2018-04-12 16:22:41] PM2 log: pid=30314 msg=process killed
+[2018-04-12 16:22:41] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-12 16:22:41] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-12 16:22:41] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-18 15:07:19] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-18 15:07:19] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-18 15:07:19] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [8290], exited with code [0] via signal [SIGINT]
+[2018-04-18 15:07:19] PM2 log: pid=8290 msg=process killed
+[2018-04-18 15:07:19] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-18 15:07:19] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-18 15:07:19] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-19 09:15:32] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-19 09:15:32] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-19 09:15:32] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [20830], exited with code [0] via signal [SIGINT]
+[2018-04-19 09:15:32] PM2 log: pid=20830 msg=process killed
+[2018-04-19 09:15:32] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-19 09:15:32] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-19 09:15:32] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-19 09:31:40] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-19 09:31:40] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-19 09:31:40] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [31083], exited with code [0] via signal [SIGINT]
+[2018-04-19 09:31:40] PM2 log: pid=31083 msg=process killed
+[2018-04-19 09:31:40] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-19 09:31:40] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-19 09:31:40] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-24 10:57:10] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-24 10:57:10] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:10] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [32009], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:10] PM2 log: pid=32009 msg=process killed
+[2018-04-24 10:57:10] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:10] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:10] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-24 10:57:12] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:12] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11218], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:12] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:12] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:13] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:13] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11247], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:13] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:13] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:14] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:14] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11283], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:14] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:14] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:15] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:15] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11310], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:15] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:15] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:17] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:17] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11337], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:17] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:17] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:18] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:18] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11369], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:18] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:18] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:19] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:19] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11462], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:19] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:19] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:20] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:20] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11489], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:20] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:20] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:22] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:22] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11516], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:22] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:22] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:23] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:23] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11543], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:23] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:23] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:24] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:24] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11572], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:24] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:24] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:25] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:25] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11601], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:25] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:25] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:27] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:27] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11630], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:27] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:27] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:28] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:28] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11658], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:28] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:28] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:29] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:29] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11686], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:29] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:29] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:31] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:31] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11713], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:31] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:31] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:32] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:32] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11740], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:32] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:32] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:33] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:33] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11767], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:33] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:33] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:35] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:35] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11794], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:35] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:35] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:36] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:36] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11821], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:36] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:36] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:37] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:37] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11849], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:37] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:37] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:38] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:38] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11876], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:38] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:38] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:39] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:39] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11903], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:39] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:39] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:41] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:41] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11930], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:41] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:41] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:42] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:42] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11957], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:42] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:42] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:43] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:43] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [11986], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:43] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:43] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:45] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:45] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12013], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:45] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:45] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:46] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:46] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12040], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:46] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:46] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:47] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:47] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12067], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:47] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:47] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:48] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:48] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12094], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:48] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:48] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:50] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:50] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12137], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:50] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:50] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:51] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:51] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12165], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:51] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:51] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:52] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:52] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12192], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:52] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:52] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:53] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:53] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12219], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:53] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:53] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:54] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:54] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12246], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:54] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:55] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:56] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:56] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12273], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:56] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:56] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:57] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:57] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12300], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:57] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:57] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:58] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:58] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12327], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:58] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:58] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:57:59] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:57:59] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12356], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:57:59] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:57:59] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:01] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:01] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12383], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:01] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:01] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:02] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:02] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12410], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:02] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:02] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:03] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:03] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12437], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:03] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:03] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:04] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:04] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12464], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:04] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:04] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:05] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:05] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12491], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:05] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:06] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:07] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:07] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12519], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:07] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:07] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:08] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:08] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12546], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:08] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:08] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:09] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:09] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12573], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:09] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:09] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:10] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:10] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12600], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:10] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:10] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:12] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:12] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12627], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:12] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:12] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:13] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:13] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12654], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:13] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:13] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:14] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:14] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12681], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:14] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:14] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:15] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:15] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12710], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:15] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:15] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:16] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:16] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12737], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:16] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:16] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:18] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:18] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12764], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:18] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:18] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:19] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:19] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12793], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:19] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:19] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:20] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:20] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12836], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:20] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:20] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:21] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:21] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12863], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:21] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:21] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:23] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:23] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12890], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:23] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:23] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:24] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:24] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12917], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:24] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:24] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:25] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:25] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12944], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:25] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:25] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:26] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:26] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [12973], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:26] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:26] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:27] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:27] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13000], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:27] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:28] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:29] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:29] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13027], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:29] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:29] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:30] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:30] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13054], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:30] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:30] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:31] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:31] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13081], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:31] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:31] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:32] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:32] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13108], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:32] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:32] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:34] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:34] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13135], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:34] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:34] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:35] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:35] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13162], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:35] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:35] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:36] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:36] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13191], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:36] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:36] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:37] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:37] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13218], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:37] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:37] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:38] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:38] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13246], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:38] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:38] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:40] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:40] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13273], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:40] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:40] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:41] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:41] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13300], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:41] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:41] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:42] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:42] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13327], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:42] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:42] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:43] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:43] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13354], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:43] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:43] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:44] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:44] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13382], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:44] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:45] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:46] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:46] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13409], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:46] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:46] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:47] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:47] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13436], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:47] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:47] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:48] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:48] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13463], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:48] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:48] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:49] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:49] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13506], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:49] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:49] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:51] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:51] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13533], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:51] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:51] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:52] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:52] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13560], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:52] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:52] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:53] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:53] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13587], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:53] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:53] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:54] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:54] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13614], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:54] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:54] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:55] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:55] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13643], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:55] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:56] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:57] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:57] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13670], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:57] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:57] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:58] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:58] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13697], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:58] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:58] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:58:59] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:58:59] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13724], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:58:59] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:58:59] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:00] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:00] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13751], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:00] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:00] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:02] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:02] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13778], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:02] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:02] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:03] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:03] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13805], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:03] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:03] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:04] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:04] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13832], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:04] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:04] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:05] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:05] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13859], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:05] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:05] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:06] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:06] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13886], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:06] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:06] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:08] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:08] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13913], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:08] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:08] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:09] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:09] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13940], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:09] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:09] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:10] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:10] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [13967], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:10] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:10] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:11] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:11] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14020], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:11] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:11] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:13] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:13] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14047], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:13] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:13] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:14] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:14] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14074], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:14] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:14] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:15] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:15] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14101], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:15] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:15] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:16] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:16] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14128], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:16] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:16] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:17] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:17] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14155], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:17] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:17] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:19] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:19] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14182], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:19] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:19] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:20] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:20] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14225], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:20] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:20] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:21] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:21] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14252], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:21] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:21] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:22] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:22] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14279], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:22] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:22] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:24] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:24] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14306], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:24] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:24] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:25] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:25] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14333], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:25] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:25] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:26] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:26] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14362], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:26] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:26] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:27] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:27] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14389], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:27] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:27] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:28] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:28] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14416], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:28] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:28] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:30] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:30] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14443], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:30] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:30] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:31] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:31] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14472], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:31] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:31] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:32] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:32] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14499], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:32] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:32] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:33] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:33] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14526], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:33] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:33] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:35] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:35] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14553], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:35] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:35] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:36] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:36] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14580], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:36] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:36] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:37] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:37] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14607], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:37] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:37] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:38] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:38] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14634], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:38] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:38] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:39] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:39] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14661], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:39] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:39] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:41] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:41] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14688], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:41] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:41] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:42] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:42] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14715], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:42] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:42] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:43] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:43] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14743], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:43] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:43] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:44] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:44] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14770], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:44] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:44] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:46] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:46] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14797], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:46] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:46] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:47] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:47] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14826], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:47] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:47] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:48] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:48] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14853], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:48] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:48] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:49] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:49] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14896], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:49] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:49] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:50] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:50] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14929], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:50] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:51] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:52] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:52] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14960], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:52] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:52] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:53] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:53] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14987], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:53] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:53] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:54] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:54] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15014], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:54] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:54] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:55] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:55] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15041], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:55] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:55] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:57] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:57] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15068], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:57] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:57] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:58] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:58] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15095], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:58] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:58] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 10:59:59] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 10:59:59] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15122], exited with code [0] via signal [SIGINT]
+[2018-04-24 10:59:59] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 10:59:59] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:00] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:00] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15149], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:00] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:00] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:01] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:01] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15176], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:01] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:01] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:03] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:03] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15203], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:03] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:03] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:04] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:04] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15232], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:04] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:04] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:05] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:05] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15259], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:05] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:05] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:06] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:06] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15286], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:06] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:06] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:08] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:08] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15313], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:08] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:08] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:09] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:09] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15340], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:09] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:09] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:10] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:10] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15367], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:10] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:10] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:11] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:11] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15394], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:11] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:11] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:12] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:12] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15421], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:12] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:12] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:14] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:14] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15448], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:14] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:00:14] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:00:15] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-24 11:00:15] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-24 11:00:15] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15475], exited with code [0] via signal [SIGINT]
+[2018-04-24 11:00:15] PM2 log: pid=15475 msg=process killed
+[2018-04-24 11:02:55] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-24 11:02:55] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-24 11:02:55] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-04-27 13:41:16] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-04-27 13:41:16] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-04-27 13:41:16] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [15659], exited with code [0] via signal [SIGINT]
+[2018-04-27 13:41:16] PM2 log: pid=15659 msg=process killed
+[2018-04-27 13:41:16] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-04-27 13:41:16] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-04-27 13:41:16] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-05-03 17:12:09] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-05-03 17:12:09] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-05-03 17:12:09] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [14457], exited with code [0] via signal [SIGINT]
+[2018-05-03 17:12:09] PM2 log: pid=14457 msg=process killed
+[2018-05-03 17:12:09] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-05-03 17:12:09] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-05-03 17:12:09] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-07 10:33:14] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-07 10:33:14] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-07 10:33:14] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [20374], exited with code [0] via signal [SIGINT]
+[2018-09-07 10:33:14] PM2 log: pid=20374 msg=process killed
+[2018-09-07 10:33:14] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-07 10:33:14] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-07 10:33:14] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-07 10:34:37] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-07 10:34:37] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-07 10:34:37] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [22981], exited with code [0] via signal [SIGINT]
+[2018-09-07 10:34:37] PM2 log: pid=22981 msg=process killed
+[2018-09-07 10:34:37] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-07 10:34:37] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-07 10:34:37] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-07 10:35:39] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-07 10:35:39] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-07 10:35:39] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [23120], exited with code [0] via signal [SIGINT]
+[2018-09-07 10:35:40] PM2 log: pid=23120 msg=process killed
+[2018-09-07 10:35:47] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-07 10:35:47] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-07 10:35:47] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-07 11:35:42] PM2 error: God db process id unknown
+[2018-09-07 11:35:45] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-07 11:35:45] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-07 11:35:45] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [23238], exited with code [0] via signal [SIGINT]
+[2018-09-07 11:35:45] PM2 log: pid=23238 msg=process killed
+[2018-09-07 11:35:45] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-07 11:35:45] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-07 11:35:45] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-07 13:48:25] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-07 13:48:25] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-07 13:48:25] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [26503], exited with code [0] via signal [SIGINT]
+[2018-09-07 13:48:25] PM2 log: pid=26503 msg=process killed
+[2018-09-07 13:48:31] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-07 13:48:32] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-07 13:48:32] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-21 14:49:20] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-21 14:49:20] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-21 14:49:20] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [32386], exited with code [0] via signal [SIGINT]
+[2018-09-21 14:49:20] PM2 log: pid=32386 msg=process killed
+[2018-09-21 14:49:20] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-21 14:49:20] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-21 14:49:20] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-21 15:22:49] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-21 15:22:49] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-21 15:22:49] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [1166], exited with code [0] via signal [SIGINT]
+[2018-09-21 15:22:49] PM2 log: pid=1166 msg=process killed
+[2018-09-21 15:23:43] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-21 15:23:43] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-21 15:23:43] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-21 15:33:49] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-21 15:33:49] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-21 15:33:49] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3076], exited with code [0] via signal [SIGINT]
+[2018-09-21 15:33:49] PM2 log: pid=3076 msg=process killed
+[2018-09-21 15:33:49] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-21 15:33:49] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-21 15:33:49] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-09-27 14:16:31] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-09-27 14:16:31] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-09-27 14:16:31] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [3606], exited with code [0] via signal [SIGINT]
+[2018-09-27 14:16:31] PM2 log: pid=3606 msg=process killed
+[2018-09-27 14:16:31] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-09-27 14:16:31] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-09-27 14:16:31] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-10-03 15:49:01] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-10-03 15:49:01] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-10-03 15:49:01] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [28857], exited with code [0] via signal [SIGINT]
+[2018-10-03 15:49:01] PM2 log: pid=28857 msg=process killed
+[2018-10-03 15:49:01] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-10-03 15:49:01] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-10-03 15:49:01] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
+[2018-10-16 13:13:53] PM2 log: Stopping app:brainvicinity_backend_production id:0
+[2018-10-16 13:13:53] PM2 log: App name:brainvicinity_backend_production id:0 disconnected
+[2018-10-16 13:13:53] PM2 log: App [brainvicinity_backend_production] with id [0] and pid [2621], exited with code [0] via signal [SIGINT]
+[2018-10-16 13:13:54] PM2 log: pid=2621 msg=process killed
+[2018-10-16 13:13:54] PM2 log: Starting execution sequence in -cluster mode- for app name:brainvicinity_backend_production id:0
+[2018-10-16 13:13:54] PM2 log: App name:brainvicinity_backend_production id:0 online
+[2018-10-16 13:13:54] PM2 error: (node:3541) [DEP0007] DeprecationWarning: worker.suicide is deprecated. Please use worker.exitedAfterDisconnect.
